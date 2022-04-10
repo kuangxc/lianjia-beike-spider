@@ -4,17 +4,19 @@
 # 此代码仅供学习与交流，请勿用于商业用途。
 # 爬取小区数据的爬虫派生类
 
+import codecs
 import re
+
+import lib.utility.version
 import threadpool
 from bs4 import BeautifulSoup
 from lib.item.xiaoqu import *
-from lib.zone.city import get_city
 from lib.spider.base_spider import *
 from lib.utility.date import *
+from lib.utility.log import *
 from lib.utility.path import *
 from lib.zone.area import *
-from lib.utility.log import *
-import lib.utility.version
+from lib.zone.city import get_city
 
 
 class XiaoQuBaseSpider(BaseSpider):
@@ -38,6 +40,8 @@ class XiaoQuBaseSpider(BaseSpider):
                 # 释放
                 self.mutex.release()
             if fmt == "csv":
+                # 20220410,罗湖区,百仕达,旭飞华达园,2000,50400,22
+                f.write("日期,区,片区,小区,建造年份,单价,在售套数,链接\n")
                 for xiaoqu in xqs:
                     f.write(self.date_string + "," + xiaoqu.text() + "\n")
         print("Finish crawl area: " + area_name + ", save data to : " + csv_file)
@@ -84,14 +88,20 @@ class XiaoQuBaseSpider(BaseSpider):
                 price = house_elem.find('div', class_="totalPrice")
                 name = house_elem.find('div', class_='title')
                 on_sale = house_elem.find('div', class_="xiaoquListItemSellCount")
+                year_built = house_elem.find('div', class_="positionInfo")
 
                 # 继续清理数据
-                price = price.text.strip()
-                name = name.text.replace("\n", "")
+                url = name.find('a',href=True)['href']
+                name = name.text.replace("\n", "")   
+                price = price.text.replace("m2", "").strip()
+                price =  "".join(filter(str.isdigit, price)) # 提取数字
                 on_sale = on_sale.text.replace("\n", "").strip()
+                on_sale =  "".join(filter(str.isdigit, on_sale)) # 提取数字          
+                year_built = year_built.text.replace("\n", "").strip()
+                year_built =  "".join(filter(str.isdigit, year_built))
 
                 # 作为对象保存
-                xiaoqu = XiaoQu(chinese_district, chinese_area, name, price, on_sale)
+                xiaoqu = XiaoQu(chinese_district, chinese_area, name,year_built, price, on_sale,url)
                 xiaoqu_list.append(xiaoqu)
         return xiaoqu_list
 

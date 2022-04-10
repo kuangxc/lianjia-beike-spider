@@ -23,18 +23,21 @@
 # Dump of table xiaoqu
 # ------------------------------------------------------------
 
-DROP TABLE IF EXISTS `xiaoqu`;
+DROP TABLE IF EXISTS `t_xiaoqu`;
 
-CREATE TABLE `xiaoqu` (
+CREATE TABLE `t_xiaoqu` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `date` varchar(8) DEFAULT NULL, 
   `city` varchar(10) DEFAULT NULL,
-  `date` varchar(8) DEFAULT NULL,
   `district` varchar(50) DEFAULT NULL,
   `area` varchar(50) DEFAULT NULL,
   `xiaoqu` varchar(100) DEFAULT NULL,
+  `year_built` varchar(16) DEFAULT NULL,
   `price` int(11) DEFAULT NULL,
   `sale` int(11) DEFAULT NULL,
+  `url` varchar(128) DEFAULT NULL,
   PRIMARY KEY (`id`)
+  UNIQUE KEY()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 

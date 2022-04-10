@@ -6,12 +6,14 @@
 # database includes: mysql/mongodb/excel/json/csv
 
 import os
+
 import pymysql
-from lib.utility.path import DATA_PATH
-from lib.zone.city import *
-from lib.utility.date import *
-from lib.utility.version import PYTHON_3
+
 from lib.spider.base_spider import SPIDER_NAME
+from lib.utility.date import *
+from lib.utility.path import DATA_PATH
+from lib.utility.version import PYTHON_3
+from lib.zone.city import *
 
 pymysql.install_as_MySQLdb()
 
@@ -35,11 +37,11 @@ if __name__ == '__main__':
     # 设置目标数据库
     ##################################
     # mysql/mongodb/excel/json/csv
-    # database = "mysql"
+    database = "mysql"
     # database = "mongodb"
     # database = "excel"
     # database = "json"
-    database = "csv"
+    # database = "csv"
     ##################################
     db = None
     collection = None
@@ -49,7 +51,7 @@ if __name__ == '__main__':
 
     if database == "mysql":
         import records
-        db = records.Database('mysql://root:123456@localhost/lianjia?charset=utf8', encoding='utf-8')
+        db = records.Database('mysql://root:2e98962fa0d4d199@127.0.0.1:3305/db_estate?charset=utf8', encoding='utf-8')
     elif database == "mongodb":
         from pymongo import MongoClient
         conn = MongoClient('localhost', 27017)
@@ -98,35 +100,45 @@ if __name__ == '__main__':
                 count += 1
                 text = line.strip()
                 try:
-                    # 如果小区名里面没有逗号，那么总共是6项
-                    if text.count(',') == 5:
-                        date, district, area, xiaoqu, price, sale = text.split(',')
-                    elif text.count(',') < 5:
+                    # 如果包含  '日期,' ，则表示这是csv的数据头，第一行
+                    if text.count('日期,') ==1:
+                        continue
+                    # 如果小区名里面没有逗号，那么总共是8项
+                    if text.count(',') == 7:
+                        date, district, area, xiaoqu, year_built, price, sale, url = text.split(',')
+                    elif text.count(',') < 7:
+                        #print(text.count(','))
                         continue
                     else:
                         fields = text.split(',')
                         date = fields[0]
                         district = fields[1]
                         area = fields[2]
-                        xiaoqu = ','.join(fields[3:-2])
-                        price = fields[-2]
-                        sale = fields[-1]
+                        xiaoqu = ','.join(fields[3:-4])
+                        year_built = fields[-4]
+                        price = fields[-3]
+                        sale = fields[-2]
+                        url = fields[-1]
                 except Exception as e:
                     print(text)
                     print(e)
                     continue
-                sale = sale.replace(r'套在售二手房', '')
-                price = price.replace(r'暂无', '0')
-                price = price.replace(r'元/m2', '')
+                if price == '':
+                    price = -1
                 price = int(price)
                 sale = int(sale)
-                print("{0} {1} {2} {3} {4} {5}".format(date, district, area, xiaoqu, price, sale))
+                print("{0} {1} {2} {3} {4} {5} {6} {7} {8}" .format(date, city_ch, district, area, xiaoqu, year_built, price, sale, url))
                 # 写入mysql数据库
                 if database == "mysql":
-                    db.query('INSERT INTO xiaoqu (city, date, district, area, xiaoqu, price, sale) '
-                             'VALUES(:city, :date, :district, :area, :xiaoqu, :price, :sale)',
-                             city=city_ch, date=date, district=district, area=area, xiaoqu=xiaoqu, price=price,
-                             sale=sale)
+                    try: 
+                        # print("replace data into mysql")
+                        db.query('REPLACE INTO t_xiaoqu (date, city, district, area, xiaoqu, year_built, price, sale, url) '
+                                'VALUES(:date, :city, :district, :area, :xiaoqu, :year_built, :price, :sale, :url)',
+                                date=date, city=city_ch, district=district, area=area, xiaoqu=xiaoqu, year_built=year_built,
+                                price=price,sale=sale,url=url)
+                    except Exception as e:
+                        continue
+                    # 忽略错误 sqlalchemy.exc.ResourceClosedError: This result object does not return rows. It has been closed automatically.
                 # 写入mongodb数据库
                 elif database == "mongodb":
                     data = dict(city=city_ch, date=date, district=district, area=area, xiaoqu=xiaoqu, price=price,
