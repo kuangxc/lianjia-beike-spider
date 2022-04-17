@@ -5,11 +5,12 @@
 # 爬虫基类
 # 爬虫名常量，用来设置爬取哪个站点
 
-import threading
-from lib.zone.city import lianjia_cities, beike_cities
-from lib.utility.date import *
-import lib.utility.version
 import random
+import threading
+
+import lib.utility.version
+from lib.utility.date import *
+from lib.zone.city import beike_cities, lianjia_cities
 
 thread_pool_size = 1
 

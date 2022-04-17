@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
     if database == "mysql":
         import records
-        db = records.Database('mysql://root:2e98962fa0d4d199@127.0.0.1:3305/db_estate?charset=utf8', encoding='utf-8')
+        db = records.Database('mysql://root:2e98962fa0d4d199@xxxx:3305/db_estate?charset=utf8', encoding='utf-8')
     elif database == "mongodb":
         from pymongo import MongoClient
         conn = MongoClient('localhost', 27017)
@@ -103,10 +103,10 @@ if __name__ == '__main__':
                     # 如果包含  '日期,' ，则表示这是csv的数据头，第一行
                     if text.count('日期,') ==1:
                         continue
-                    # 如果小区名里面没有逗号，那么总共是8项
-                    if text.count(',') == 7:
-                        date, district, area, xiaoqu, year_built, price, sale, url = text.split(',')
-                    elif text.count(',') < 7:
+                    # 如果小区名里面没有逗号，那么总共是11项
+                    if text.count(',') == 10:
+                        date, district, area, xiaoqu, year_built, price, erfang,sanfang,sifang,primary_school, url = text.split(',')
+                    elif text.count(',') < 10:
                         #print(text.count(','))
                         continue
                     else:
@@ -114,10 +114,13 @@ if __name__ == '__main__':
                         date = fields[0]
                         district = fields[1]
                         area = fields[2]
-                        xiaoqu = ','.join(fields[3:-4])
-                        year_built = fields[-4]
-                        price = fields[-3]
-                        sale = fields[-2]
+                        xiaoqu = ','.join(fields[3:-7])
+                        year_built = fields[-7]
+                        price = fields[-6]
+                        erfang = fields[-5]
+                        sanfang = fields[-4]
+                        sifang = fields[-3]
+                        primary_school = fields[-2]
                         url = fields[-1]
                 except Exception as e:
                     print(text)
@@ -126,23 +129,24 @@ if __name__ == '__main__':
                 if price == '':
                     price = -1
                 price = int(price)
-                sale = int(sale)
-                print("{0} {1} {2} {3} {4} {5} {6} {7} {8}" .format(date, city_ch, district, area, xiaoqu, year_built, price, sale, url))
+                print("{0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10} {11}" .format(date, city_ch, district, area, 
+                xiaoqu, year_built,price, erfang,sanfang,sifang,primary_school, url))
                 # 写入mysql数据库
                 if database == "mysql":
                     try: 
                         # print("replace data into mysql")
-                        db.query('REPLACE INTO t_xiaoqu (date, city, district, area, xiaoqu, year_built, price, sale, url) '
-                                'VALUES(:date, :city, :district, :area, :xiaoqu, :year_built, :price, :sale, :url)',
+                        db.query('REPLACE INTO t_xiaoqu (date, city, district, area, xiaoqu, year_built, price,erfang,sanfang,sifang,primary_school , url) '
+                                'VALUES(:date, :city, :district, :area, :xiaoqu, :year_built, :price, :erfang, :sanfang, :sifang, :primary_school, :url)',
                                 date=date, city=city_ch, district=district, area=area, xiaoqu=xiaoqu, year_built=year_built,
-                                price=price,sale=sale,url=url)
+                                price=price,erfang=erfang,sanfang=sanfang,sifang=sifang,primary_school=primary_school,url=url)
                     except Exception as e:
+                        print(e)
                         continue
                     # 忽略错误 sqlalchemy.exc.ResourceClosedError: This result object does not return rows. It has been closed automatically.
                 # 写入mongodb数据库
                 elif database == "mongodb":
-                    data = dict(city=city_ch, date=date, district=district, area=area, xiaoqu=xiaoqu, price=price,
-                                sale=sale)
+                    data = dict(date=date, city=city_ch, district=district, area=area, xiaoqu=xiaoqu, year_built=year_built,
+                                price=price,erfang=erfang,sanfang=sanfang,sifang=sifang,primary_school=primary_school,url=url)
                     collection.insert(data)
                 elif database == "excel":
                     if not PYTHON_3:
@@ -167,9 +171,9 @@ if __name__ == '__main__':
                                 sale=sale)
                     datas.append(data)
                 elif database == "csv":
-                    line = "{0};{1};{2};{3};{4};{5};{6}\n".format(city_ch, date, district, area, xiaoqu, price, sale)
+                    line = "{0};{1};{2};{3};{4};{5};{6};{7};{8};{9};{10}\n".format(date,city_ch, district, area, xiaoqu, price, sale,
+                     year_built,price,erfang,sanfang,sifang,primary_school,url)
                     csv_file.write(line)
-
     # 写入，并且关闭句柄
     if database == "excel":
         workbook.close()

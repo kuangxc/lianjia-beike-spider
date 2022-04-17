@@ -17,6 +17,9 @@ from lib.utility.log import *
 from lib.utility.path import *
 from lib.zone.area import *
 from lib.zone.city import get_city
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 
 class XiaoQuBaseSpider(BaseSpider):
@@ -40,8 +43,8 @@ class XiaoQuBaseSpider(BaseSpider):
                 # 释放
                 self.mutex.release()
             if fmt == "csv":
-                # 20220410,罗湖区,百仕达,旭飞华达园,2000,50400,22
-                f.write("日期,区,片区,小区,建造年份,单价,在售套数,链接\n")
+                # 20220410,罗湖区,百仕达,旭飞华达园,2000,50400,1,2,3,南头小学,xxxx
+                f.write("日期,区,片区,小区,建造年份,单价,二房,三房,四房,小学,链接\n")
                 for xiaoqu in xqs:
                     f.write(self.date_string + "," + xiaoqu.text() + "\n")
         print("Finish crawl area: " + area_name + ", save data to : " + csv_file)
@@ -61,11 +64,11 @@ class XiaoQuBaseSpider(BaseSpider):
         headers = create_headers()
         response = requests.get(page, timeout=10, headers=headers)
         html = response.content
-        soup = BeautifulSoup(html, "lxml")
+        xiaoquSoup = BeautifulSoup(html, "lxml")
 
         # 获得总的页数
         try:
-            page_box = soup.find_all('div', class_='page-box')[0]
+            page_box = xiaoquSoup.find_all('div', class_='page-box')[0]
             matches = re.search('.*"totalPage":(\d+),.*', str(page_box))
             total_page = int(matches.group(1))
         except Exception as e:
@@ -76,7 +79,7 @@ class XiaoQuBaseSpider(BaseSpider):
         for i in range(1, total_page + 1):
             headers = create_headers()
             page = 'http://{0}.{1}.com/xiaoqu/{2}/pg{3}'.format(city, SPIDER_NAME, area, i)
-            print(page)  # 打印版块页面地址
+            print("page url:"+page)  # 打印版块页面地址
             BaseSpider.random_delay()
             response = requests.get(page, timeout=10, headers=headers)
             html = response.content
@@ -89,9 +92,8 @@ class XiaoQuBaseSpider(BaseSpider):
                 name = house_elem.find('div', class_='title')
                 on_sale = house_elem.find('div', class_="xiaoquListItemSellCount")
                 year_built = house_elem.find('div', class_="positionInfo")
-
                 # 继续清理数据
-                url = name.find('a',href=True)['href']
+                xiaoqu_url = name.find('a',href=True)['href']
                 name = name.text.replace("\n", "")   
                 price = price.text.replace("m2", "").strip()
                 price =  "".join(filter(str.isdigit, price)) # 提取数字
@@ -99,9 +101,11 @@ class XiaoQuBaseSpider(BaseSpider):
                 on_sale =  "".join(filter(str.isdigit, on_sale)) # 提取数字          
                 year_built = year_built.text.replace("\n", "").strip()
                 year_built =  "".join(filter(str.isdigit, year_built))
-
+                primary_schools = get_primary_schools(xiaoqu_url)
+                erfang,sanfang,sifang = get_ershou_number(xiaoqu_url)
                 # 作为对象保存
-                xiaoqu = XiaoQu(chinese_district, chinese_area, name,year_built, price, on_sale,url)
+                xiaoqu = XiaoQu(chinese_district, chinese_area, name,year_built, price, erfang,sanfang,sifang,
+                primary_schools,xiaoqu_url)
                 xiaoqu_list.append(xiaoqu)
         return xiaoqu_list
 
@@ -147,6 +151,66 @@ class XiaoQuBaseSpider(BaseSpider):
         print("Total crawl {0} areas.".format(len(areas)))
         print("Total cost {0} second to crawl {1} data items.".format(t2 - t1, self.total_num))
 
+
+def get_primary_schools(xiaoqu_url):
+        headers = create_headers()
+        options = webdriver.ChromeOptions()
+        # 操作无页面显示，如果需要debug，需要注释下面这一行
+        options.add_argument('--headless')
+        for (k,v) in headers.items():
+            options.add_argument(k+"="+v)
+        driver = webdriver.Chrome(chrome_options=options)
+        driver.get(xiaoqu_url)
+        driver.find_element_by_xpath("//li[@data-bl='education']").click()
+        time.sleep(0.1)
+        for i in range(0,5):
+            if len(driver.find_element_by_xpath("//div[@data-bl='primary-school']").text) ==0 :
+                time.sleep(1)
+            else:
+                break
+        driver.find_element_by_xpath("//div[@data-bl='primary-school']").click()
+        time.sleep(0.1)
+        for i in range(0,5):
+            if len(driver.find_element_by_xpath("//div[@class='aroundList']").text) ==0 :
+                time.sleep(1)
+            else:
+                break
+        school_elements  = driver.find_element_by_xpath("//div[@class='aroundList']").find_elements(by=By.XPATH,value="//span[@class='itemText itemTitle']")
+        schools = ""
+        try:
+            for s in school_elements:
+                schools = schools +s.text+";"
+        except Exception as e:
+            print(e)
+        schools = schools[0:len(schools)-1]
+        driver.close()
+        print("xiaoqu url:"+xiaoqu_url+",schools:"+schools)  # 打印版块页面地址
+        return schools
+
+def get_ershou_number(xiaoqu_url):
+    try: 
+        erfang,sanfang,sifang = 0,0,0
+        response = requests.get(xiaoqu_url, timeout=10, headers=create_headers())
+        html = response.content
+        soup = BeautifulSoup(html, "lxml")
+        ershou_element = soup.find('div', class_="goodSellHeader clear")
+        ershou_url = ershou_element.find('a',href=True)['href']
+        response = requests.get(ershou_url, timeout=10, headers=create_headers())
+        html = response.content
+        soup = BeautifulSoup(html, "lxml")
+        sell_elements = soup.find('ul',class_='sellListContent').find_all('div',class_='houseInfo')
+        for sell_element in sell_elements:
+            if sell_element.text.find("2室") >=0:
+                erfang = erfang +1
+            elif sell_element.text.find("3室") >=0:
+                sanfang = sanfang +1
+            elif sell_element.text.find("4室") >=0:
+                sifang = sifang +1
+        print(ershou_url," 二房:",erfang,",三房:",sanfang,",四房:",sifang)
+        return erfang,sanfang,sifang
+    except Exception as e:
+        print(e)
+    return 0,0,0
 
 if __name__ == "__main__":
     # urls = get_xiaoqu_area_urls()
