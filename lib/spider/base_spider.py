@@ -12,7 +12,7 @@ import lib.utility.version
 from lib.utility.date import *
 from lib.zone.city import beike_cities, lianjia_cities
 
-thread_pool_size = 1
+thread_pool_size = 2
 
 # 防止爬虫被禁，随机延迟设定
 # 如果不想delay，就设定False，
@@ -28,7 +28,7 @@ class BaseSpider(object):
     @staticmethod
     def random_delay():
         if RANDOM_DELAY:
-            time.sleep(random.randint(1, 3))
+            time.sleep(random.randint(2, 4))
 
     def __init__(self, name):
         self.name = name

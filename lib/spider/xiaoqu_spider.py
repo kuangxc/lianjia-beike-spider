@@ -6,6 +6,7 @@
 
 import codecs
 import re
+import traceback
 
 import lib.utility.version
 import threadpool
@@ -94,6 +95,7 @@ class XiaoQuBaseSpider(BaseSpider):
                 year_built = house_elem.find('div', class_="positionInfo")
                 # 继续清理数据
                 xiaoqu_url = name.find('a',href=True)['href']
+                #print("xiaoqu url:"+xiaoqu_url)
                 name = name.text.replace("\n", "")   
                 price = price.text.replace("m2", "").strip()
                 price =  "".join(filter(str.isdigit, price)) # 提取数字
@@ -122,6 +124,9 @@ class XiaoQuBaseSpider(BaseSpider):
         # 获得每个区的板块, area: 板块
         areas = list()
         for district in districts:
+            if district !="nanshanqu" :
+                print("ignore district ",district)
+                continue
             areas_of_district = get_areas(city, district)
             print('{0}: Area list:  {1}'.format(district, areas_of_district))
             # 用list的extend方法,L1.extend(L2)，该方法将参数L2的全部元素添加到L1的尾部
@@ -153,6 +158,9 @@ class XiaoQuBaseSpider(BaseSpider):
 
 
 def get_primary_schools(xiaoqu_url):
+    schools = ""
+    web_retry =0
+    while web_retry<5:
         headers = create_headers()
         options = webdriver.ChromeOptions()
         # 操作无页面显示，如果需要debug，需要注释下面这一行
@@ -161,56 +169,75 @@ def get_primary_schools(xiaoqu_url):
             options.add_argument(k+"="+v)
         driver = webdriver.Chrome(chrome_options=options)
         driver.get(xiaoqu_url)
+        # content after click may is loading,retry if needed
         driver.find_element_by_xpath("//li[@data-bl='education']").click()
-        time.sleep(0.1)
-        for i in range(0,5):
-            if len(driver.find_element_by_xpath("//div[@data-bl='primary-school']").text) ==0 :
-                time.sleep(1)
-            else:
+        time.sleep(1)
+        retry = 0
+        while retry <3:
+            if len(driver.find_element_by_xpath("//div[@data-bl='primary-school']").text) !=0 :
+                #print("data-bl='primary-school "+ driver.find_element_by_xpath("//div[@data-bl='primary-school']").text)
                 break
+            retry += 1
+            time.sleep(retry)    
         driver.find_element_by_xpath("//div[@data-bl='primary-school']").click()
-        time.sleep(0.1)
-        for i in range(0,5):
-            if len(driver.find_element_by_xpath("//div[@class='aroundList']").text) ==0 :
-                time.sleep(1)
-            else:
+        time.sleep(1)
+        retry = 0
+        while retry <3:
+            if len(driver.find_element_by_xpath("//div[@class='aroundList']").text) !=0 :
                 break
-        school_elements  = driver.find_element_by_xpath("//div[@class='aroundList']").find_elements(by=By.XPATH,value="//span[@class='itemText itemTitle']")
-        schools = ""
+            retry += 1
+            time.sleep(retry)
+        arround_element = driver.find_element_by_xpath("//div[@class='aroundList']")
+        school_elements  = arround_element.find_elements(by=By.XPATH,value="//span[@class='itemText itemTitle']")
         try:
             for s in school_elements:
+                #print("school element:"+s.text)
                 schools = schools +s.text+";"
         except Exception as e:
+            traceback.print_exc()
             print(e)
         schools = schools[0:len(schools)-1]
         driver.close()
-        print("xiaoqu url:"+xiaoqu_url+",schools:"+schools)  # 打印版块页面地址
-        return schools
+        if len(schools)>0:
+            break
+        web_retry += 1
+        time.sleep(web_retry)
+    print("xiaoqu url:"+xiaoqu_url+",schools:"+schools)  # 打印版块页面地址
+    return schools
 
 def get_ershou_number(xiaoqu_url):
+    erfang,sanfang,sifang = 0,0,0
     try: 
-        erfang,sanfang,sifang = 0,0,0
         response = requests.get(xiaoqu_url, timeout=10, headers=create_headers())
         html = response.content
         soup = BeautifulSoup(html, "lxml")
         ershou_element = soup.find('div', class_="goodSellHeader clear")
+        # 如果取不到二手房详情URL，说明当前小区没有二手房出售
+        if ershou_element is None:
+            return erfang,sanfang,sifang
         ershou_url = ershou_element.find('a',href=True)['href']
         response = requests.get(ershou_url, timeout=10, headers=create_headers())
+        time.sleep(1)
         html = response.content
         soup = BeautifulSoup(html, "lxml")
-        sell_elements = soup.find('ul',class_='sellListContent').find_all('div',class_='houseInfo')
-        for sell_element in sell_elements:
-            if sell_element.text.find("2室") >=0:
+        sell_element = soup.find('ul',class_='sellListContent')
+        if sell_element is None:
+            print(ershou_url+" :"+" selling list is None")
+            return erfang,sanfang,sifang
+        house_elements = sell_element.find_all('div',class_='houseInfo')
+        for house_element in house_elements:
+            if house_element.text.find("2室") >=0:
                 erfang = erfang +1
-            elif sell_element.text.find("3室") >=0:
+            elif house_element.text.find("3室") >=0:
                 sanfang = sanfang +1
-            elif sell_element.text.find("4室") >=0:
+            elif house_element.text.find("4室") >=0:
                 sifang = sifang +1
         print(ershou_url," 二房:",erfang,",三房:",sanfang,",四房:",sifang)
-        return erfang,sanfang,sifang
     except Exception as e:
-        print(e)
-    return 0,0,0
+        traceback.print_exc()
+        print(xiaoqu_url+':'+str(e))
+    return erfang,sanfang,sifang
+
 
 if __name__ == "__main__":
     # urls = get_xiaoqu_area_urls()

@@ -51,6 +51,7 @@ if __name__ == '__main__':
 
     if database == "mysql":
         import records
+        
         db = records.Database('mysql://root:2e98962fa0d4d199@xxxx:3305/db_estate?charset=utf8', encoding='utf-8')
     elif database == "mongodb":
         from pymongo import MongoClient
