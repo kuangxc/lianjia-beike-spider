@@ -106,7 +106,8 @@ if __name__ == '__main__':
                         continue
                     # 如果小区名里面没有逗号，那么总共是11项
                     if text.count(',') == 10:
-                        date, district, area, xiaoqu, year_built, price, erfang,sanfang,sifang,primary_school, url = text.split(',')
+                        date, district, area, xiaoqu, year_built, price,used, erfang,sanfang,sifang,
+                        primary_school, url = text.split(',')
                     elif text.count(',') < 10:
                         #print(text.count(','))
                         continue
@@ -115,9 +116,10 @@ if __name__ == '__main__':
                         date = fields[0]
                         district = fields[1]
                         area = fields[2]
-                        xiaoqu = ','.join(fields[3:-7])
-                        year_built = fields[-7]
-                        price = fields[-6]
+                        xiaoqu = ','.join(fields[3:-8])
+                        year_built = fields[-8]
+                        price = fields[-7]
+                        used = fields[-6]
                         erfang = fields[-5]
                         sanfang = fields[-4]
                         sifang = fields[-3]
@@ -130,16 +132,16 @@ if __name__ == '__main__':
                 if price == '':
                     price = -1
                 price = int(price)
-                print("{0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10} {11}" .format(date, city_ch, district, area, 
-                xiaoqu, year_built,price, erfang,sanfang,sifang,primary_school, url))
+                print("{0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10} {11} {11}" .format(date, city_ch, district, area, 
+                xiaoqu, year_built,price,used, erfang,sanfang,sifang,primary_school, url))
                 # 写入mysql数据库
                 if database == "mysql":
                     try: 
                         # print("replace data into mysql")
-                        db.query('REPLACE INTO t_xiaoqu (date, city, district, area, xiaoqu, year_built, price,erfang,sanfang,sifang,primary_school , url) '
-                                'VALUES(:date, :city, :district, :area, :xiaoqu, :year_built, :price, :erfang, :sanfang, :sifang, :primary_school, :url)',
+                        db.query('REPLACE INTO t_xiaoqu (date, city, district, area, xiaoqu, year_built, price,used,erfang,sanfang,sifang,primary_school , url) '
+                                'VALUES(:date, :city, :district, :area, :xiaoqu, :year_built, :price, :used, :erfang, :sanfang, :sifang, :primary_school, :url)',
                                 date=date, city=city_ch, district=district, area=area, xiaoqu=xiaoqu, year_built=year_built,
-                                price=price,erfang=erfang,sanfang=sanfang,sifang=sifang,primary_school=primary_school,url=url)
+                                price=price,used=used,erfang=erfang,sanfang=sanfang,sifang=sifang,primary_school=primary_school,url=url)
                     except Exception as e:
                         print(e)
                         continue

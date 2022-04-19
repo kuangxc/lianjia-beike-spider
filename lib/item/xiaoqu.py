@@ -6,7 +6,7 @@
 
 
 class XiaoQu(object):
-    def __init__(self, district, area, name,year_built, price, 
+    def __init__(self, district, area, name,year_built, price, used,
     on_sale_erfang,onsale_sanfang,onsale_sifang,
     elementary_schools,url):
         self.district = district
@@ -14,6 +14,7 @@ class XiaoQu(object):
         self.name = name
         self.year_built = year_built
         self.price = price
+        self.used = used
         self.on_sale_erfang = on_sale_erfang
         self.onsale_sanfang = onsale_sanfang
         self.onsale_sifang = onsale_sifang
@@ -26,6 +27,7 @@ class XiaoQu(object):
                 self.name + "," + \
                 self.year_built + "," + \
                 str(self.price) + "," + \
+                str(self.used) + "," + \
                 str(self.on_sale_erfang) + "," + \
                 str(self.onsale_sanfang) + "," + \
                 str(self.onsale_sifang) + "," + \
