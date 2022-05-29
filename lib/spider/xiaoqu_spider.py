@@ -19,6 +19,7 @@ from lib.utility.path import *
 from lib.zone.area import *
 from lib.zone.city import get_city
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
@@ -124,9 +125,6 @@ class XiaoQuBaseSpider(BaseSpider):
         # 获得每个区的板块, area: 板块
         areas = list()
         for district in districts:
-            if district !="nanshanqu" :
-                print("ignore district ",district)
-                continue
             areas_of_district = get_areas(city, district)
             print('{0}: Area list:  {1}'.format(district, areas_of_district))
             # 用list的extend方法,L1.extend(L2)，该方法将参数L2的全部元素添加到L1的尾部
@@ -163,12 +161,16 @@ def get_primary_schools(xiaoqu_url):
     while web_retry<5:
         try:
             headers = create_headers()
-            options = webdriver.ChromeOptions()
+            #options = webdriver.ChromeOptions()
+            options = Options()
             # 操作无页面显示，如果需要debug，需要注释下面这一行
-            options.add_argument('--headless')
+            options.add_argument('--headless') #浏览器不提供可视化页面 
+            options.add_argument('-–no-sandbox') #“–no - sandbox”参数是让Chrome在root权限下跑
+            options.add_argument('no-sandbox') #“–no - sandbox”参数是让Chrome在root权限下跑
+            options.add_argument('blink-settings=imagesEnabled=false') #不加载图片, 提升速度
             for (k,v) in headers.items():
                 options.add_argument(k+"="+v)
-            driver = webdriver.Chrome(chrome_options=options)
+            driver = webdriver.Chrome(chrome_options=options,executable_path='/home/mqq/chromedriver')
             driver.get(xiaoqu_url)
             # content after click may is loading,retry if needed
             driver.find_element_by_xpath("//li[@data-bl='education']").click()

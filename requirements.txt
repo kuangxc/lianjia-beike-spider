@@ -11,3 +11,4 @@ pandas
 pyecharts
 pyecharts-snapshot
 selenium
+jsonpath

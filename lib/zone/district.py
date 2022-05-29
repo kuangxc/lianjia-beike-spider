@@ -55,8 +55,6 @@ def get_districts(city):
             break
         else:
             print("districts is empty,retry...")
-            # nanshanqu only for debug
-            en_names.append("nanshanqu")
     return en_names
 
 
