@@ -75,7 +75,7 @@ for i in range(size):
             list[iii].ershou_area = area
 print("ershou get finish size:",len(list))
 
-db = records.Database('mysql://root:2e98962fa0d4d199@119.45.125.72:3305/db_estate?charset=utf8', encoding='utf-8')
+db = records.Database('mysql://root:xxxxx@119.45.125.72:3305/db_estate?charset=utf8', encoding='utf-8')
 for m in list:
     try: 
     # print("replace data into mysql")
