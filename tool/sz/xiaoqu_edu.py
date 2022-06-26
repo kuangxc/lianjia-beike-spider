@@ -7,8 +7,8 @@ import jsonpath
 import pymysql
 import records
 import requests
-from numpy import append
 from bs4 import BeautifulSoup
+from numpy import append
 
 pymysql.install_as_MySQLdb()
 
@@ -16,7 +16,7 @@ pymysql.install_as_MySQLdb()
 class XiaoquEdu():
     def __init__(self, name,edu):
         self.name = name
-        self.yishou_num = edu
+        self.edu = edu
 
     def text(self):
         return self.name + "," + \
@@ -39,6 +39,8 @@ print(edu_url+xiaoqu)
 response = requests.get(edu_url+xiaoqu, timeout=10, headers=headers)
 html = response.content
 soup = BeautifulSoup(html, "lxml")
-edu_elements = soup.find_all('p', class_="mlp-tb")
+edu_elements = soup.find('p', class_="mlp-tb").find_all("a")
+schools = ""
 for edu_element in edu_elements:
-  print(edu_element.text)
+  schools += edu_element.text+";"
+print(schools)
