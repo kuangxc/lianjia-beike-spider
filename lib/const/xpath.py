@@ -4,7 +4,7 @@
 # 此代码仅供学习与交流，请勿用于商业用途。
 # 页面元素的XPATH
 
-from lib.spider.base_spider import SPIDER_NAME, LIANJIA_SPIDER, BEIKE_SPIDER
+from lib.spider.base_spider import BEIKE_SPIDER, LIANJIA_SPIDER, SPIDER_NAME
 
 if SPIDER_NAME == LIANJIA_SPIDER:
     ERSHOUFANG_QU_XPATH = '//*[@id="filter-options"]/dl[1]/dd/div/a'

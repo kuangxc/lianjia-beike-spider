@@ -7,6 +7,7 @@
 import time
 
 import requests
+from bs4 import BeautifulSoup
 from lib.const.xpath import *
 from lib.request.headers import *
 from lib.spider.base_spider import SPIDER_NAME
@@ -35,8 +36,9 @@ def get_districts(city):
     """
     en_names = list()
     ch_names = list()
+    url = 'https://{0}.{1}.com/xiaoqu/'.format(city, SPIDER_NAME)
+    print(url) 
     for i in range(0,10): 
-        url = 'https://{0}.{1}.com/xiaoqu/'.format(city, SPIDER_NAME)
         headers = create_headers()
         response = requests.get(url, timeout=10, headers=headers)
         html = response.content
@@ -55,6 +57,7 @@ def get_districts(city):
             break
         else:
             print("districts is empty,retry...")
+            time.sleep(i*i*i+60)
     return en_names
 
 
