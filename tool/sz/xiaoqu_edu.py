@@ -27,7 +27,7 @@ edu_url="http://edu.chachaba.com/index.php/Home/Index/build/?b_name="
 headers={"User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0"}
 
 
-conn = pymysql.connect(host='119.45.125.72', port=3305, user='root', passwd='2e98962fa0d4d199', 
+conn = pymysql.connect(host='119.45.125.72', port=3305, user='root', passwd='xxx', 
 db='db_estate', charset='utf8')
 cur = conn.cursor()#获取一个游标
 sql_query = "select distinct(xiaoqu) from t_xiaoqu where date > date_sub(now(),interval 2 day)"
