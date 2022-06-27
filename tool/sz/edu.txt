@@ -1,0 +1,2157 @@
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=保利达小行星
+('保利达小行星','深圳市宝安区黄埔小学;深圳市宝安中学（集团）第二外国语学校（初中部）;深圳市宝安中学（集团）第二外国语学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=凤凰雅居
+('凤凰雅居','深圳市宝安区凤岗小学;深圳市西乡中学(初中部);新安中学（集团）外国语学校（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宝田居一栋
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居一区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居七区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居三区
+('桃源居三区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居九区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居二区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居五区
+('桃源居五区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居六区
+('桃源居六区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居十一区
+('桃源居十一区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居十七区
+('桃源居十七区','深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居十三区
+('桃源居十三区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居十二区
+('桃源居十二区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居十五区
+('桃源居十五区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居十六区
+('桃源居十六区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居十区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居十四区
+('桃源居十四区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源居四区
+('桃源居四区','深圳市宝安区桃源居中澳实验学校公办（小学部）;深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区凤岗小学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;深圳市桃源居中澳实验学校公办（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=湾景时代公馆
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金色家园
+('金色家园','深圳市福田区科技中学;深圳市福田区景秀小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雍华源
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万豪御景苑
+('万豪御景苑','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万豪掬月半山
+('万豪掬月半山','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东方银座公馆
+('东方银座公馆','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中建二局丽香家园
+('中建二局丽香家园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中海阳光玫瑰园
+('中海阳光玫瑰园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丰泽园
+('丰泽园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽湾国际公寓
+('丽湾国际公寓','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=云栖西岸
+('云栖西岸','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=佳兆业前海广场一期
+('佳兆业前海广场一期','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=佳兆业前海广场二期
+('佳兆业前海广场二期','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=信利康大厦
+('信利康大厦','深圳市南山区月亮湾小学;深圳市南山区赤湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=光彩山居岁月
+('光彩山居岁月','深圳市南山区南山实验教育集团荔林小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海丹华
+('前海丹华','深圳市南山区赤湾学校（初中部）;深圳市南山区赤湾学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海凯御
+('前海凯御','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海嘉里中心
+('前海嘉里中心','深圳市南山区赤湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海康城华府
+('前海康城华府','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海时代CEO公馆
+('前海时代CEO公馆',''),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海时代广场
+('前海时代广场',''),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海明珠
+('前海明珠','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海湾花园
+('前海湾花园','深圳市南山区赤湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海花园
+('前海花园','深圳市南山区前海学校（初中部）;深圳市南山区前海小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海花园三期
+('前海花园三期','深圳市南山区前海学校（初中部）;深圳市南山区前海小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华润前海中心·悦玺
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=卓越前海壹号
+('卓越前海壹号',''),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山花园
+('南山花园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=大新时代大厦
+('大新时代大厦','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天朗风清
+('天朗风清','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=太子山庄
+('太子山庄','深圳市南山区南山实验教育集团荔林小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=山水情家园
+('山水情家园','深圳市南山区南山实验教育集团荔林小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=山海翠庐
+('山海翠庐','深圳市南山区南山实验教育集团荔林小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=山语海
+('山语海','深圳市南山区赤湾学校（初中部）;深圳市南山区赤湾学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=御海新苑
+('御海新苑','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=御海新苑二期
+('御海新苑二期','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=德尚世家
+('德尚世家','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=心语家园
+('心语家园','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=心语雅园
+('心语雅园','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=恒立心海湾花园
+('恒立心海湾花园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商前海·领尚公馆
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=振业国际商务中心
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新德家园
+('新德家园','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城一期一组团
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城一期三组团
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城一期二组团
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城一期五组团
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城一期六组团
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城一期四组团
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城三期
+('星海名城三期','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城二期七组团
+('星海名城二期七组团','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城二期八组团
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城五期
+('星海名城五期','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星海名城六期
+('星海名城六期','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=月亮湾山庄
+('月亮湾山庄','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=月亮湾花园
+('月亮湾花园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=月华苑公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桂珠苑
+('桂珠苑','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=椰风海岸
+('椰风海岸','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汉京九榕台
+('汉京九榕台','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汉京确悦
+('汉京确悦','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=泛海城市广场
+('泛海城市广场','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=泛海拉菲花园
+('泛海拉菲花园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=泛海拉菲花园二期
+('泛海拉菲花园二期','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海王小区
+('海王小区','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深物业前海港湾花园
+('深物业前海港湾花园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=港湾丽都
+('港湾丽都','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=港湾生活小区
+('港湾生活小区','深圳市南山区赤湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=瑞景华庭
+('瑞景华庭','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=紫园
+('紫园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=绿海名都
+('绿海名都','深圳市南山区前海学校（初中部）;深圳市南山区前海学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔庭园
+('荔庭园','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔庭园二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔湾太子苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西苑小区
+('西苑小区','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=观峰阁
+('观峰阁','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=诺德假日花园
+('诺德假日花园','深圳市南山区南山实验教育集团荔林小学;深圳大学师范学院附属中学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=赤湾海天楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=赤湾海鹏阁
+('赤湾海鹏阁','深圳市南山区赤湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=铭筑
+('铭筑','深圳市南山区南山实验教育集团荔林小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光棕榈园一期
+('阳光棕榈园一期','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光棕榈园三期
+('阳光棕榈园三期','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光棕榈园二期
+('阳光棕榈园二期','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光花地苑
+('阳光花地苑','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雷圳碧榕湾名苑
+('雷圳碧榕湾名苑','深圳市南山区南山实验教育集团荔林小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雷圳碧榕湾海景花园
+('雷圳碧榕湾海景花园','深圳市南山区南山实验教育集团荔林小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=青青山庄
+('青青山庄','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=颐湾府
+('颐湾府','深圳市南山区月亮湾小学;深圳市南山区赤湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香格名苑
+('香格名苑','深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香江金融中心
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎太风华一期
+('鼎太风华一期','深圳市南山区南山实验教育集团鼎太小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎太风华七期
+('鼎太风华七期','深圳市南山区南山实验教育集团鼎太小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎太风华三期
+('鼎太风华三期','深圳市南山区南山实验教育集团鼎太小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎太风华二期
+('鼎太风华二期','深圳市南山区南山实验教育集团鼎太小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎太风华五期
+('鼎太风华五期','深圳市南山区南山实验教育集团鼎太小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎太风华六期
+('鼎太风华六期','深圳市南山区南山实验教育集团鼎太小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎太风华四期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎太风华社区商场
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=一辉花园
+('一辉花园','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世界花园樱花居
+('世界花园樱花居','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世界花园海华居
+('世界花园海华居','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世界花园米兰居
+('世界花园米兰居','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世界花园雅典居
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世界花园香山居
+('世界花园香山居','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世纪假日广场
+('世纪假日广场','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东方科技园
+('东方科技园','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东方花园
+('东方花园','深圳市南山区第二实验学校（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东方花园桂花苑
+('东方花园桂花苑','深圳市南山区第二实验学校（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东组团
+('东组团','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中新街社区
+('中新街社区','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中新街芳华苑
+('中新街芳华苑','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中旅广场
+('中旅广场','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=京基御景东方东堤园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=佛山街
+('佛山街','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=侨城一号广场
+('侨城一号广场','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=侨城坊
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=侨香诺园
+('侨香诺园','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=假日湾
+('假日湾','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=光侨街住宅区
+('光侨街住宅区','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=光华街住宅区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华侨城LOFT公馆
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=名商高尔夫球会
+('名商高尔夫球会','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=大豪家私宿舍楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天鹅堡
+('天鹅堡','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天鹅湖花园一期
+('天鹅湖花园一期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天鹅湖花园三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天鹅湖花园二期
+('天鹅湖花园二期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=康佳苑
+('康佳苑','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=懿德轩
+('懿德轩','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新堂花园
+('新堂花园','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=方大城
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=智慧广场
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=松山村
+('松山村','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汇文楼
+('汇文楼','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸一期
+('波托菲诺纯水岸一期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸七期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸三期
+('波托菲诺纯水岸三期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸九期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸二期
+('波托菲诺纯水岸二期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸五期
+('波托菲诺纯水岸五期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸八期
+('波托菲诺纯水岸八期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸六期
+('波托菲诺纯水岸六期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸十三期
+('波托菲诺纯水岸十三期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸十二期
+('波托菲诺纯水岸十二期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸十五期
+('波托菲诺纯水岸十五期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸十六期
+('波托菲诺纯水岸十六期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸十四期
+('波托菲诺纯水岸十四期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸十期
+('波托菲诺纯水岸十期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=波托菲诺纯水岸四期
+('波托菲诺纯水岸四期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海景花园
+('海景花园','深圳市盐田田东中学;深圳市盐田区外国语小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=湖滨花园
+('湖滨花园','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=燕晗山居
+('燕晗山居','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=燕晗山苑
+('燕晗山苑','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=燕晗花园
+('燕晗花园','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=瑞思中心
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=白石洲片区旧改
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=绿景美景广场
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=美加广场
+('美加广场','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=聚龙居
+('聚龙居','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花样年香年广场
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔园新村(杜鹃山西街)
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔枝苑
+('荔枝苑','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔海楼
+('荔海楼','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金迪世纪大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=锦绣公寓
+('锦绣公寓','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=锦绣花园一期
+('锦绣花园一期','深圳市龙华区第二实验学校（初中部）;深圳市龙华区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=锦绣花园三期
+('锦绣花园三期','深圳市南山区华侨城中学侨城部（初中部）;深圳市南山区华侨城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=锦绣花园二期
+('锦绣花园二期','深圳市龙华区第二实验学校（初中部）;深圳市龙华区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=陶然居
+('陶然居','深圳市南山区卓雅小学;哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=首地容御
+('首地容御','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香山美墅·果岭
+('香山美墅·果岭','深圳市南山区第二实验学校（初中部）;深圳市南山区香山里小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香山美墅一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香山美墅三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香山美墅二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香山美墅云颂
+('香山美墅云颂','深圳市南山区第二实验学校（初中部）;深圳市南山区香山里小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香山里花园一期
+('香山里花园一期','深圳市南山区第二实验学校（初中部）;深圳市南山区第二实验学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香山里花园二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=高发公寓
+('高发公寓','深圳市南山区桃源小学;哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=高发单身宿舍
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=TCL科学园国际E城
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=一甲海边新村
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东关乐尚林居
+('东关乐尚林居','深圳市南山区同乐学校（初中部）;深圳市南山区同乐学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东方新地
+('东方新地','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东方美地苑
+('东方美地苑','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中兴之家
+('中兴之家','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中国南方电网住宅楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中山苑
+('中山苑','深圳市南山区荔香学校（初中部）;深圳市南山区南头城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中山雅苑
+('中山雅苑','深圳市南山区同乐学校（初中部）;深圳市南山区同乐学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中山颐景花园一期
+('中山颐景花园一期','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中山颐景花园二期
+('中山颐景花园二期','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽乐美居
+('丽乐美居','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=久商大厦
+('久商大厦','深圳市南山区荔香学校（初中部）;深圳市南山区南头城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=仓前锦福苑
+('仓前锦福苑','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=佳嘉豪商务大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=光大村
+('光大村','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=兰丽花园
+('兰丽花园','深圳市南山区荔香学校（初中部）;深圳市南山区南头城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=关口下街67号
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海东岸
+('前海东岸','深圳市南山区南山实验教育集团园丁学校小学部;深圳市南山区实验教育集团园丁学校(初中部);'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海华庭
+('前海华庭','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海枫叶大厦
+('前海枫叶大厦','深圳市南山区荔香学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海金岸
+('前海金岸','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=区委综合楼
+('区委综合楼','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华为住宅楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华府国际
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华府苑
+('华府苑','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华昌大厦
+('华昌大厦','深圳市南山区荔香学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头中学教师楼
+('南头中学教师楼','深圳市南山区荔香学校（初中部）;深圳市南山区南头城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头中学文化街46号
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头仿古商业城
+('南头仿古商业城','深圳市南山区荔香学校（初中部）;深圳市南山区南头城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头大厦
+('南头大厦','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头影剧院
+('南头影剧院','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头海关宿舍楼
+('南头海关宿舍楼','深圳市南山区南山实验教育集团园丁学校小学部;深圳市南山区实验教育集团园丁学校(初中部);'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头电话所综合楼
+('南头电话所综合楼','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头花园一甲楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头花园中南苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头花园永发楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南头邮局宿舍
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山中学教师楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山区关口村人民医院住宅楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山区常兴路房管综合楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山医院家属楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山意境
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山物资公司宿舍
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山统建商住楼
+('南山统建商住楼','深圳市南山区荔香学校（初中部）;深圳市南山区向南小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山豪庭
+('南山豪庭','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南新大厦
+('南新大厦','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南新路35号综合楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南景苑
+('南景苑','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南海台大厦
+('南海台大厦','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南贸中心
+('南贸中心','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南贸综合楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南贸花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南龙苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=吉祥花园
+('吉祥花园','深圳大学师范学院附属坂田学校（初中部）;深圳市龙岗区坂田街道雪象小学;深圳大学师范学院附属坂田学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=名仕春天
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=名家富居
+('名家富居','深圳市南山区荔香学校（初中部）;深圳市南山区南头城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=嘉南美地
+('嘉南美地','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=嘉庭苑
+('嘉庭苑','深圳市南山区南山实验教育集团麒麟小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=嘉隆苑
+('嘉隆苑','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=四季丽晶
+('四季丽晶','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=国兴苑
+('国兴苑','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=城建宿舍
+('城建宿舍','深圳市盐田田东中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=大陆庄园
+('大陆庄园','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=如意家园
+('如意家园','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宏华苑
+('宏华苑','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=富嘉名阁
+('富嘉名阁','深圳市南山区荔香学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=工商楼
+('工商楼','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=常丰花园
+('常丰花园','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=常兴广场
+('常兴广场','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=常兴花园
+('常兴花园','深圳市南山区荔香学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=常兴苑
+('常兴苑','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=康乐村小区
+('康乐村小区','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=彩虹居
+('彩虹居','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=御林华府
+('御林华府','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=怡苑阁
+('怡苑阁','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=悠然天地家园
+('悠然天地家园','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新海大厦
+('新海大厦','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新豪方大厦
+('新豪方大厦','深圳市南山区荔香学校（初中部）;深圳市南山区南头城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=方鼎华庭
+('方鼎华庭','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=旺海怡苑
+('旺海怡苑','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=明珠荔景
+('明珠荔景','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=明舍御园
+('明舍御园','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃花园
+('桃花园','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃苑公寓
+('桃苑公寓','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃苑小区
+('桃苑小区','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=水产综合楼
+('水产综合楼','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=水木一方大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汇金家园
+('汇金家园','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海岸时代公寓
+('海岸时代公寓','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=物资小区住宅楼
+('物资小区住宅楼','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=田厦金牛广场
+('田厦金牛广场','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=直升机场公寓楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=祥云花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=祥泰公寓
+('祥泰公寓','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=福临苑
+('福临苑','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=福源街小区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=秀林新居
+('秀林新居','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=红花园
+('红花园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=红花园社区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=红花雅筑
+('红花雅筑','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=绿茵丰和家园
+('绿茵丰和家园','深圳市南山区南山实验教育集团麒麟小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=缤纷年华
+('缤纷年华','深圳市南山区南山实验教育集团麒麟小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=翡翠明珠花园
+('翡翠明珠花园','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=艺华花园
+('艺华花园','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=苏豪名厦
+('苏豪名厦','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=英达钰龙园
+('英达钰龙园','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔园新村(虹步路)
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔林春晓
+('荔林春晓','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔秀华庭
+('荔秀华庭','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔芳村
+('荔芳村','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔苑小区
+('荔苑小区','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔馨村南山区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=莲城花园
+('莲城花园','深圳市南山区荔香学校（初中部）;深圳市南山区南头城小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蓝虹雅苑
+('蓝虹雅苑','深圳市南山区南山实验教育集团麒麟小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=豪方天际花园
+('豪方天际花园','深圳市南山区南山实验教育集团园丁学校小学部;深圳市南山区实验教育集团园丁学校(初中部);'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金宝花园
+('金宝花园','深圳市南山区荔香学校（初中部）;深圳市南山区荔香学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金桃园大厦
+('金桃园大厦','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金龙工业城
+('金龙工业城','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光荔景
+('阳光荔景','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=顺天大厦
+('顺天大厦','深圳市南山区荔香学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=馨荔苑
+('馨荔苑','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=马家龙单身宿舍
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=马家龙大新工业村
+('马家龙大新工业村','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=马家龙工业区
+('马家龙工业区','深圳市南山区南头城小学;深圳市南山区同乐学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=马家龙方卉园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸿洲新都
+('鸿洲新都','深圳市南山区前海学校（初中部）;深圳市南山区大新小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸿海大厦
+('鸿海大厦','深圳市南山区前海学校（初中部）;深圳市南山区阳光小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=麒麟公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=麒麟花园A区
+('麒麟花园A区','深圳市南山区南山实验教育集团麒麟小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=麒麟花园B区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万象新园
+('万象新园','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世纪广场
+('世纪广场','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东华假日公寓
+('东华假日公寓','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东方海雅居
+('东方海雅居','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中兴公寓
+('中兴公寓','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中泰南山主角
+('中泰南山主角','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中泰天成南山一品
+('中泰天成南山一品','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中海丽苑
+('中海丽苑','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中润百分百公寓
+('中润百分百公寓','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中熙君南山
+('中熙君南山','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=乐群楼
+('乐群楼','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=亿利达大厦商务中心
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=佳嘉豪苑
+('佳嘉豪苑','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=保利城花园
+('保利城花园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=保利大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=光彩新世纪家园
+('光彩新世纪家园','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=光彩新天地
+('光彩新天地','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=公园道
+('公园道','深圳市盐田区庚子首义中山纪念学校;深圳市盐田区实验学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=凯德公园1号
+('凯德公园1号','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=北头豪苑
+('北头豪苑','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华侨新村
+('华侨新村','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华彩天成居
+('华彩天成居','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华联城市商务中心
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华联花园
+('华联花园','深圳市南山区荔香学校（初中部）;深圳市南山区向南小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南侨花园
+('南侨花园','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南光城市花园
+('南光城市花园','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南光市场
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南光花园
+('南光花园','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南园工业园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南园枫叶国际广场
+('南园枫叶国际广场','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山村南兴公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南新苑
+('南新苑','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南海城中心
+('南海城中心','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南海大厦
+('南海大厦','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南海明珠
+('南海明珠','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南粤山庄
+('南粤山庄','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南苑新村
+('南苑新村','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南苑新村东区
+('南苑新村东区','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南荔苑
+('南荔苑','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=友邻公寓
+('友邻公寓','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=双子湾
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=向南海德大厦
+('向南海德大厦','深圳市南山区荔香学校（初中部）;深圳市南山区向南小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=向南瑞峰花园
+('向南瑞峰花园','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=向南茗苑
+('向南茗苑','深圳市南山区荔香学校（初中部）;深圳市南山区向南小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=向南西海花园
+('向南西海花园','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=向南西苑
+('向南西苑','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=四达大厦
+('四达大厦','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=园丁楼
+('园丁楼','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=城市印象
+('城市印象','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=城市山林
+('城市山林','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天安公寓
+('天安公寓','深圳市福田区新洲中学;深圳市福田区下沙小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天安工业村
+('天安工业村','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天悦园南山
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天源大厦
+('天源大厦','深圳市南山区荔香学校（初中部）;深圳市南山区向南小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天马综合楼
+('天马综合楼','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=好来居
+('好来居','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=学府花园
+('学府花园','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=山东大厦
+('山东大厦','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=康乐园
+('康乐园','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=康乐大厦
+('康乐大厦','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=弘都商务公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=德馨花园
+('德馨花园','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=怡园大厦
+('怡园大厦','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=怡海广场
+('怡海广场','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=惠中名苑
+('惠中名苑','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=愉康大厦
+('愉康大厦','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=愉康花园
+('愉康花园','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新保辉大厦
+('新保辉大厦','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新绿岛大厦
+('新绿岛大厦','深圳市南山区荔香学校（初中部）;深圳市南山区向南小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新能源大厦
+('新能源大厦','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新街口花园
+('新街口花园','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=时代骄子大厦
+('时代骄子大厦','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=永安公寓
+('永安公寓','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汇宾广场
+('汇宾广场','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汇宾广场二期
+('汇宾广场二期','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汉京国际
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汉京山
+('汉京山','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海典居
+('海典居','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海印长城
+('海印长城','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海岸明珠园
+('海岸明珠园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海昌阁
+('海昌阁','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海王大厦
+('海王大厦','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海珠城
+('海珠城','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深华园南山区
+('深华园南山区','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深意公寓南山区
+('深意公寓南山区','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深航飞行员公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=现代城华庭
+('现代城华庭','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=登良花园
+('登良花园','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=百富大厦南山区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=福园单身公寓
+('福园单身公寓','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=福园花园
+('福园花园','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=福庭苑
+('福庭苑','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=福海苑
+('福海苑','深圳市南山区南山小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=福满园
+('福满园','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=缤纷假日豪园
+('缤纷假日豪园','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=美丽湾国际公寓
+('美丽湾国际公寓','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=美墅蓝山家园
+('美墅蓝山家园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔园大厦
+('荔园大厦','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔海春城
+('荔海春城','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔雅居
+('荔雅居','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荟芳园
+('荟芳园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西海岸大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西海明珠大厦-F栋
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西海明珠花园
+('西海明珠花园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=豪园小区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=赛格名苑银兴苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=跃华园
+('跃华园','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金山花园
+('金山花园','深圳市南山区南海小学;深圳市南山区南山实验教育集团南海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金晖大厦
+('金晖大厦','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金田花园
+('金田花园','深圳市南山区荔香学校（初中部）;深圳市南山区向南小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金钟大厦
+('金钟大厦','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光华艺大厦
+('阳光华艺大厦','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光里雅居
+('阳光里雅居','深圳市南山区荔香学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=青春家园
+('青春家园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸿瑞花园一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸿瑞花园三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸿瑞花园二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸿隆大厦
+('鸿隆大厦','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鹏都大厦
+('鹏都大厦','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=黄金豪庭南山
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙佳园
+('龙佳园','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙坤居
+('龙坤居','深圳市南山区南海小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙城新苑
+('龙城新苑','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙泰轩
+('龙泰轩','深圳市南山区向南小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=云海天城
+('云海天城','北京师范大学南山附属学校（小学部）;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=京光海景花园
+('京光海景花园','北京师范大学南山附属学校（初中部）;深圳市南山区南油小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=信和自由广场
+('信和自由广场','北京师范大学南山附属学校（初中部）;深圳市南山区南油小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南油B区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南粤明珠海洋之心
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=后海名苑居北区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=后海名苑居南区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=后海花园
+('后海花园','北京师范大学南山附属学校（小学部）;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天海花园
+('天海花园','深圳市盐田区梅沙小学;深圳市盐田区实验学校;深圳市盐田区外国语学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商名仕花园
+('招商名仕花园','北京师范大学南山附属学校（初中部）;北京师范大学南山附属学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新一代国际公寓
+('新一代国际公寓','北京师范大学南山附属学校（初中部）;深圳市南山区南油小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=浪琴屿花园
+('浪琴屿花园','北京师范大学南山附属学校（初中部）;北京师范大学南山附属学校（小学部）;深圳市南山区第二外国语学校集团海德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深圳湾公馆
+('深圳湾公馆','北京师范大学南山附属学校（初中部）;北京师范大学南山附属学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深蓝季节
+('深蓝季节','深圳市南山区南油小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=滨海之窗
+('滨海之窗','深圳市南山区第二外国语学校集团海德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=漾日湾畔
+('漾日湾畔','深圳市南山区第二外国语学校集团海德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=现代城梦想家园
+('现代城梦想家园','北京师范大学南山附属学校（初中部）;深圳市南山区南油小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=瑞铧苑
+('瑞铧苑','北京师范大学南山附属学校（初中部）;北京师范大学南山附属学校（小学部）;深圳市南山区第二外国语学校集团海德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=电力花园
+('电力花园','北京师范大学南山附属学校（初中部）;北京师范大学南山附属学校（小学部）;深圳市南山区第二外国语学校集团海德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=碧海天家园
+('碧海天家园','北京师范大学南山附属学校（小学部）;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=育德佳园
+('育德佳园','北京师范大学南山附属学校（初中部）;北京师范大学南山附属学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蔚蓝海岸1期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蔚蓝海岸2期
+('蔚蓝海岸2期','北京师范大学南山附属学校（初中部）;北京师范大学南山附属学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蔚蓝海岸3期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蔚蓝海岸南山4期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西海湾花园
+('西海湾花园','北京师范大学南山附属学校（小学部）;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=观海台
+('观海台','深圳市南山区第二外国语学校集团海德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金海岸大厦
+('金海岸大厦','深圳市南山区南油小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=钜建大厦
+('钜建大厦','北京师范大学南山附属学校（初中部）;深圳市南山区南油小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雅仕荔景苑
+('雅仕荔景苑','北京师范大学南山附属学校（初中部）;深圳市南山区南油小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽岛茗园
+('丽岛茗园','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山第二外国语学校平山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽新花园
+('丽新花园','深圳市西丽第二中学;深圳市南山区西丽小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽雅苑
+('丽雅苑','深圳市西丽第二中学;深圳市南山区留仙小学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=京基御景峯
+('京基御景峯','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=兴园居
+('兴园居','深圳大学城丽湖实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华晖云门
+('华晖云门','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南国丽城
+('南国丽城','深圳市南山区西丽小学;深圳大学城丽湖实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=博林天瑞
+('博林天瑞','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山第二外国语学校平山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=塘朗城
+('塘朗城','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=塘朗城广场东区
+('塘朗城广场东区','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天悦湾花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=学城绿园
+('学城绿园','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山第二外国语学校平山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宝能华府
+('宝能华府','深圳市西丽第二中学;深圳市南山区留仙小学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宝能城
+('宝能城','深圳市福田区教育科学研究院第二附属小学;深圳市高级中学（集团）南校区;深圳高级中学（集团）中心校区（南）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=崇文花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=平丽花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=德意名居一期
+('德意名居一期','深圳大学城丽湖实验学校（小学部）;深圳大学城丽湖实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=德意名居二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桑泰丹华一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桑泰丹华园三期
+('桑泰丹华园三期','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山第二外国语学校平山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桑泰丹华园二期
+('桑泰丹华园二期','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山第二外国语学校平山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桑泰丹华园四期
+('桑泰丹华园四期','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山第二外国语学校平山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=水木丹华
+('水木丹华','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=腾飞苑
+('腾飞苑','深圳市西丽第二中学;深圳市南山区西丽小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蓝天花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西丽山庄
+('西丽山庄','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山实验教育集团白芒小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西丽湖度假村
+('西丽湖度假村','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山实验教育集团白芒小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西湖林语
+('西湖林语','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山第二外国语学校平山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鹤祥苑
+('鹤祥苑','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山实验教育集团白芒小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎胜金域世家
+('鼎胜金域世家','深圳市西丽第二中学;深圳市南山区留仙小学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=三湘海尚花园
+('三湘海尚花园','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华润深圳湾悦府一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华润深圳湾悦府二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华润深圳湾瑞府
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=卓越维港北区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=卓越维港南区
+('卓越维港南区','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=君汇新天
+('君汇新天','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=太古城北
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=太古城南
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=恒裕滨城一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=恒裕滨城二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=曦湾华府
+('曦湾华府','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=曦湾天馥
+('曦湾天馥','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汉森吉祥龙
+('汉森吉祥龙','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深圳湾1号
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=百丽湾
+('百丽湾','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=皇庭港湾
+('皇庭港湾','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=绿海湾花园
+('绿海湾花园','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=翡翠海岸
+('翡翠海岸','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=致远大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光海滨花园
+('阳光海滨花园','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=颐安阅海
+('颐安阅海','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸿威海怡湾
+('鸿威海怡湾','深圳湾学校（小学部）;深圳湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中信花园
+('中信花园','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中海深圳湾畔花园
+('中海深圳湾畔花园','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=侨城豪苑
+('侨城豪苑','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=侨城豪苑二期
+('侨城豪苑二期','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=侨城馨苑
+('侨城馨苑','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=侨洲花园
+('侨洲花园','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=明珠花园
+('明珠花园','深圳市盐田区庚子首义中山纪念学校;深圳市盐田区实验学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=景翠苑
+('景翠苑','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=沙河观景阁
+('沙河观景阁','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深圳湾花园
+('深圳湾花园','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=碧茵苑
+('碧茵苑','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=祥祺花园
+('祥祺花园','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=联发大楼
+('联发大楼','深圳市南山区第二实验学校（初中部）;深圳市南山区沙河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中信海阔天空
+('中信海阔天空','深圳市南山区南山外国语学校（集团）科苑小学;深圳市南山外国语学校（集团）高新中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=创世纪滨海花园
+('创世纪滨海花园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华润城润府一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华润城润府三期
+('华润城润府三期','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）科华学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华润城润府二期
+('华润城润府二期','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）科华学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=卓越浅水湾
+('卓越浅水湾','深圳市南山区南山外国语学校（集团）科苑小学;深圳市南山外国语学校（集团）高新中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=厚德品园
+('厚德品园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=城市山谷三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=大冲城市花园
+('大冲城市花园','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）科华学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=大冲新城花园
+('大冲新城花园','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）大冲学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=学林雅院
+('学林雅院','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=岸芷汀兰
+('岸芷汀兰','深圳市南山区南山外国语学校（集团）科苑小学;深圳市南山外国语学校（集团）高新中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=恒立听海花园
+('恒立听海花园','深圳市南山区南山外国语学校（集团）科苑小学;深圳市南山外国语学校（集团）高新中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=朗景园
+('朗景园','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）大冲学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=松坪村东区三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=松坪村西区三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汇景豪苑
+('汇景豪苑','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）大冲学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=浪琴半岛
+('浪琴半岛','深圳市南山区南山外国语学校（集团）科苑小学;深圳市南山外国语学校（集团）高新中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海怡东方花园
+('海怡东方花园','深圳市南山区南山外国语学校（集团）科苑小学;深圳市南山外国语学校（集团）高新中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海文花园
+('海文花园','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深南花园
+('深南花园','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）大冲学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=科苑学里
+('科苑学里','深圳市南山区南山外国语学校（集团）文华学校小学部;深圳市南山区南山外国语学校（集团）文华学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=科苑居
+('科苑居','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）大冲学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=红树别院
+('红树别院','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）科华学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=豪方现代豪园
+('豪方现代豪园','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）大冲学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=豪方花园
+('豪方花园','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）大冲学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光带海滨城一期
+('阳光带海滨城一期','深圳市南山区南山外国语学校（集团）科苑小学;深圳市南山外国语学校（集团）高新中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光带海滨城二期
+('阳光带海滨城二期','深圳市南山区南山外国语学校（集团）科苑小学;深圳市南山外国语学校（集团）高新中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光海景豪苑
+('阳光海景豪苑','深圳市南山区南山外国语学校（集团）大冲学校小学部;深圳市南山区南山外国语学校（集团）大冲学校;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=阳光粤海
+('阳光粤海','深圳市南山区第二外国语学校（集团）学府小学;深圳市南山区第二外国语学校（集团）学府中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世纪村一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世纪村三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世纪村二期
+('世纪村二期','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=世纪村四期
+('世纪村四期','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中信红树湾北区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中信红树湾南区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=京基御景东方
+('京基御景东方','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=国际市长交流中心
+('国际市长交流中心','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桂苑小区
+('桂苑小区','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汀兰鹭榭花园
+('汀兰鹭榭花园','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汇雅苑
+('汇雅苑','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=沙河高尔夫别墅
+('沙河高尔夫别墅','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=瑧湾汇
+('瑧湾汇','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=百仕达红树西岸
+('百仕达红树西岸','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=美庐锦园
+('美庐锦园','深圳市南山区第二实验学校（初中部）;深圳市南山区海滨实验小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万丰园
+('万丰园','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万科蛇口公馆
+('万科蛇口公馆','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东帝海景家园
+('东帝海景家园','深圳市南山区蛇口学校（小学部）;深圳市南山区南山第二外国语学校(集团)海岸学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=临园大厦
+('临园大厦','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=伍兹华府
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=供电局宿舍
+('供电局宿舍','深圳福田区莲花中学南校区（初中部）;深圳市福田区福华小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=倚园大厦
+('倚园大厦','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=兰园商住楼
+('兰园商住楼','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=兰园大厦
+('兰园大厦','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=兰园小区
+('兰园小区','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=兴龙大厦
+('兴龙大厦','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=农行楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=凯宁阁
+('凯宁阁','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=千叶苑
+('千叶苑','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半山海景兰溪谷一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半山海景兰溪谷二期
+('半山海景兰溪谷二期','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半山海景别墅
+('半山海景别墅','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半岛城邦花园一期
+('半岛城邦花园一期','深圳市南山区南山外国语学校（集团）滨海小学;深圳市南山外国语学校（集团）滨海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半岛城邦花园三期
+('半岛城邦花园三期','深圳市南山区南山外国语学校（集团）滨海小学;深圳市南山外国语学校（集团）滨海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半岛城邦花园二期
+('半岛城邦花园二期','深圳市南山区南山外国语学校（集团）滨海小学;深圳市南山外国语学校（集团）滨海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半岛城邦花园四期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半岛花园A区
+('半岛花园A区','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半岛花园B区
+('半岛花园B区','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华丰苑
+('华丰苑','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华府假日大厦
+('华府假日大厦','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华彩花园
+('华彩花园','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南山蛇口南水花园
+('南山蛇口南水花园','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南水小区
+('南水小区','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南海玫瑰花园一期
+('南海玫瑰花园一期','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南海玫瑰花园三期
+('南海玫瑰花园三期','深圳市南山区南山外国语学校（集团）滨海小学;深圳市南山外国语学校（集团）滨海中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南海玫瑰花园二期
+('南海玫瑰花园二期','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南玻花园
+('南玻花园','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南苑小区
+('南苑小区','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南达楼
+('南达楼','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=双玺时光道
+('双玺时光道','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=发展行综合楼
+('发展行综合楼','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=合兴大厦
+('合兴大厦','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=后海公馆
+('后海公馆','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区南山第二外国语学校(集团)海岸学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=后海理想雅园
+('后海理想雅园','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=后海花半里雅居
+('后海花半里雅居','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=商检小区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=四海公寓
+('四海公寓','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=四海宜家
+('四海宜家','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=四海小区
+('四海小区','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=四海市场综合楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=园景园
+('园景园','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=围仔东小区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=围仔山花园
+('围仔山花园','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=国检宿舍
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=壹栈人才公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天海豪景苑
+('天海豪景苑','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天骄华庭
+('天骄华庭','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=太子湾商务广场
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=太子湾商务广场T4
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宏宝花园
+('宏宝花园','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=山海津
+('山海津','深圳市南山区赤湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=山海韵
+('山海韵','深圳市南山区赤湾学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=工贸佳园
+('工贸佳园','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=广博星海华庭
+('广博星海华庭','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=广物花园
+('广物花园','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=建行综合楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=弘都世纪公寓
+('弘都世纪公寓','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=怡庭园
+('怡庭园','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招东小区一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招东小区二期
+('招东小区二期','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招北小区
+('招北小区','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招北综合楼
+('招北综合楼','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招南小区
+('招南小区','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商桃花园一期
+('招商桃花园一期','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商桃花园三期
+('招商桃花园三期','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商桃花园二期
+('招商桃花园二期','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商桃花园五期
+('招商桃花园五期','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商海月华庭
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商海琴花园
+('招商海琴花园','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商海琴苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招干楼小区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招银小区
+('招银小区','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=振兴小区
+('振兴小区','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=文卫楼
+('文卫楼','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=文竹园
+('文竹园','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星发楼
+('星发楼','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=春天广场
+('春天广场','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=春树里
+('春树里','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=晗山悦海城
+('晗山悦海城','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=景园大厦(爱榕路)
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=曙光花园
+('曙光花园','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=有方育才家园
+('有方育才家园','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=望海汇景苑
+('望海汇景苑','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=林语堂
+('林语堂','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=枫叶望海公馆
+('枫叶望海公馆','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=栖游家园
+('栖游家园','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桂园小区一区
+('桂园小区一区','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桂园小区三区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=榆园一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=榆园三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=榆园二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=水产楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=水湾1979一期
+('水湾1979一期','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=水湾1979二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=水湾B区
+('水湾B区','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=水湾小区
+('水湾小区','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=永乐新村
+('永乐新村','深圳市南山区蛇口学校（小学部）;深圳市南山区南山第二外国语学校(集团)海岸学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=泰福苑
+('泰福苑','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=浩宇单身公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海上世界双玺
+('海上世界双玺','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海伴雅居
+('海伴雅居','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海关大院
+('海关大院','深圳市罗湖区滨河实验中学(初中部);深圳市罗湖区滨河小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海兴阁
+('海兴阁','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海境界家园一期
+('海境界家园一期','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区南山第二外国语学校(集团)海岸学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海尚国际
+('海尚国际','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海怡阁
+('海怡阁','深圳市龙岗区兰陵学校（小学部）;深圳市龙岗区坪地中学;深圳市龙岗区坪地街道中心小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海昌大厦
+('海昌大厦','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海明阁
+('海明阁','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海景广场
+('海景广场','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海月花园一期
+('海月花园一期','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海月花园三期
+('海月花园三期','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海月花园二期
+('海月花园二期','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海欣花园
+('海欣花园','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海洋星苑
+('海洋星苑','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海湾花园
+('海湾花园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海滨花园
+('海滨花园','深圳市盐田区外国语小学（东和分校）;深圳市盐田田东中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海莉园
+('海莉园','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海虹苑
+('海虹苑','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海韵嘉园
+('海韵嘉园','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=渔港大楼
+('渔港大楼','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=港湾花园
+('港湾花园','深圳市南山区月亮湾小学;深圳大学师范学院附属中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=湾厦德园
+('湾厦德园','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=湾厦玉竹苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=湾厦福园
+('湾厦福园','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=湾厦综合楼
+('湾厦综合楼','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=湾厦花园
+('湾厦花园','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=湾厦路综合楼
+('湾厦路综合楼','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=源华综合楼
+('源华综合楼','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=滨海苑
+('滨海苑','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=澳城1618一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=澳城1618二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=爱榕园
+('爱榕园','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=玫瑰园小区
+('玫瑰园小区','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=电业宿舍
+('电业宿舍','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=畔山翠谷居
+('畔山翠谷居','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=百花苑蛇口
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=石云村
+('石云村','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=石云阁
+('石云阁','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=石化大院
+('石化大院','深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=碧涛苑别墅
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=碧涛苑多层
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=税务小区
+('税务小区','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=米兰公寓
+('米兰公寓','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=米兰第2季
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=紫竹园
+('紫竹园','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=维园大厦
+('维园大厦','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=翠竹园
+('翠竹园','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=翠苑小区
+('翠苑小区','深圳市第二实验学校（初中部）;深圳市罗湖区泰宁小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=翠薇园
+('翠薇园','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=老街新寓
+('老街新寓','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=联合医院职工住宅楼
+('联合医院职工住宅楼','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花园城一期
+('花园城一期','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花园城三期
+('花园城三期','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花园城五期
+('花园城五期','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花果山大厦
+('花果山大厦','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花果山小区
+('花果山小区','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花样年美年广场
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔兴苑
+('荔兴苑','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔园小区
+('荔园小区','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荣寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荣村小区
+('荣村小区','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蓝月湾畔
+('蓝月湾畔','深圳市南山区后海小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蓝漪花园
+('蓝漪花园','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蓝虹豪苑
+('蓝虹豪苑','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蓬莱花园
+('蓬莱花园','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蛇口国土所综合楼
+('蛇口国土所综合楼','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蛇口小学综合楼
+('蛇口小学综合楼','深圳市南山区蛇口学校（初中部）;深圳市南山区蛇口学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蛇口统建楼
+('蛇口统建楼','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蛇口综合楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=蛇口边检家属大院
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=豪方悠然居
+('豪方悠然居','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=迎宾大厦
+('迎宾大厦','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=迎晖公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=迎朝大厦
+('迎朝大厦','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金竹园
+('金竹园','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金竹园北座
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金竹园南座
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金竹园邮电楼
+('金竹园邮电楼','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金色海琴苑
+('金色海琴苑','深圳市南山区蛇口学校（小学部）;深圳市南山区南山第二外国语学校(集团)海岸学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金色阳光雅居
+('金色阳光雅居','深圳市南山区蛇口育才教育集团育才四小;深圳市南山区南山第二外国语学校(集团)海岸学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金融中心
+('金融中心','深圳市罗湖区滨河实验中学(初中部);深圳市罗湖小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雍华府
+('雍华府','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雍景湾
+('雍景湾','深圳市南山区育才二小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雍景轩
+('雍景轩','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雷公岭住宅A区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雷公岭住宅区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雷公岭医院机关楼
+('雷公岭医院机关楼','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才三中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=高山花园
+('高山花园','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鲸山觐海
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸣溪谷
+('鸣溪谷','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙电B区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙电花园A区
+('龙电花园A区','深圳市南山区育才三小;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龟山别墅
+('龟山别墅','深圳市南山区蛇口育才教育集团第一小学;深圳市南山区蛇口育才教育集团育才二中;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龟山花园别墅
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万科云城
+('万科云城','深中南山创新学校（小学部）;深中南山创新学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万科里
+('万科里','深圳市龙岗区五和小学;深圳实验学校坂田校区（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中爱花园
+('中爱花园','哈尔滨工业大学(深圳)实验学校（初中部）;哈尔滨工业大学(深圳)实验学校（小学部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽兰苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽珠花园
+('丽珠花园','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽苑村
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽苑阁
+('丽苑阁','深圳市西丽第二中学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=众冠花园
+('众冠花园','深圳市西丽第二中学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=众冠西郡园
+('众冠西郡园','深圳市西丽第二中学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=众望楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=佳兆业香瑞园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=俊峰丽舍
+('俊峰丽舍','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区蛇口育才教育集团龙珠学校小学部;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=光前村
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=十五峯花园
+('十五峯花园','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区蛇口育才教育集团龙珠学校小学部;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=十五峯花园二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半山翠林花园
+('半山翠林花园','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=半山语林公寓
+('半山语林公寓','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=城市假日花园
+('城市假日花园','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区蛇口育才教育集团龙珠学校小学部;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天地峰景
+('天地峰景','哈尔滨工业大学(深圳)实验学校（初中部）;哈尔滨工业大学(深圳)实验学校（小学部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=学子荔园
+('学子荔园','深圳市西丽第二中学;深圳市南山区西丽小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=学校家属小区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=官龙名苑
+('官龙名苑','深圳市西丽第二中学;深圳市南山区西丽小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宝珠花园
+('宝珠花园','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=岚峰苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=怡然天地居
+('怡然天地居','深圳市南山区桃源小学;哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=文光丽景大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=朗苑
+('朗苑','深圳市龙岗区五和小学;深圳实验学校坂田校区（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源村一期
+('桃源村一期','深圳市南山区卓雅小学;哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源村三期
+('桃源村三期','哈尔滨工业大学(深圳)实验学校（初中部）;哈尔滨工业大学(深圳)实验学校（小学部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桃源村二期
+('桃源村二期','深圳市南山区卓雅小学;哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=梅州大厦
+('梅州大厦','哈尔滨工业大学(深圳)实验学校（初中部）;哈尔滨工业大学(深圳)实验学校（小学部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=欧陆经典
+('欧陆经典','深圳市南山区桃源小学;哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=水木华庭
+('水木华庭','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区蛇口育才教育集团龙珠学校小学部;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汇文苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海龙苑
+('海龙苑','深圳市南山区桃源小学;哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=润城花园
+('润城花园','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=湖彬苑
+('湖彬苑','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区蛇口育才教育集团龙珠学校小学部;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=珠光公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=珠光花半里
+('珠光花半里','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=珠光苑
+('珠光苑','深圳市西丽第二中学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=留仙苑1期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=皇庭香格里花园
+('皇庭香格里花园','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区蛇口育才教育集团龙珠学校小学部;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=益力公司住宅楼
+('益力公司住宅楼','深圳大学城丽湖实验学校（初中部）;深圳市南山区南山实验教育集团白芒小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=石景湾花园
+('石景湾花园','深圳市西丽第二中学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=石鼓花园
+('石鼓花园','深中南山创新学校（小学部）;深中南山创新学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荔景家园
+('荔景家园','深圳市南山区南山实验教育集团南头小学;深圳市南山区南山实验教育集团麒麟中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=郁金香家园
+('郁金香家园','哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区蛇口育才教育集团龙珠学校小学部;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金盛苑
+('金盛苑','深圳市西丽第二中学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=雅丽阁
+('雅丽阁','深圳市西丽第二中学;深圳市南山区西丽第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香榭峰景苑
+('香榭峰景苑','哈尔滨工业大学(深圳)实验学校（初中部）;哈尔滨工业大学(深圳)实验学校（小学部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎胜山邻居
+('鼎胜山邻居','深圳市南山区珠光小学;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鼎胜林栖园
+('鼎胜林栖园','深圳市南山区桃源小学;哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙井庭苑
+('龙井庭苑','深圳市南山区桃源小学;哈尔滨工业大学(深圳)实验学校（初中部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙珠军苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙祥苑
+('龙祥苑','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙福苑
+('龙福苑','哈尔滨工业大学(深圳)实验学校（初中部）;哈尔滨工业大学(深圳)实验学校（小学部）;深圳市南山区南山外国语学校（集团）桃源中学;深圳市南山区蛇口育才教育集团龙珠学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙联花园
+('龙联花园','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙辉花园
+('龙辉花园','深圳市南山区珠光小学;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙都名园
+('龙都名园','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙都花园
+('龙都花园','深圳市南山区文理实验学校（小学部）;深圳市南山区文理实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万科金域东郡
+('万科金域东郡','深圳市坪山实验学校（小学部）;深圳市坪山实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万科金域缇香
+('万科金域缇香','深圳市坪山实验学校（小学部）;深圳市坪山实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万科金域缇香二期
+('万科金域缇香二期','深圳市坪山实验学校（小学部）;深圳市坪山实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东关珺府
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东方威尼斯花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东津名座
+('东津名座','深圳市坪山新区坪山中心小学;深圳市坪山区坪山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东部华侨城天麓七区
+('东部华侨城天麓七区',''),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中海万锦熙岸华庭
+('中海万锦熙岸华庭','深圳市坪山区同心外国语学校（小学部）;深圳市坪山区同心外国语学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中粮一品澜山花园
+('中粮一品澜山花园','深圳市坪山区坑梓中心小学;深圳市坪山区同心外国语学校（初中部）;深圳市坪山区光祖中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丹梓龙庭
+('丹梓龙庭','深圳市坪山区同心外国语学校（小学部）;深圳市坪山区同心外国语学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=亨龙楼
+('亨龙楼','深圳市坪山区坑梓中心小学;深圳市坪山区光祖中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=京基御景印象一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=京基御景印象三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=京基御景印象二期
+('京基御景印象二期','深圳市坪山区中山小学;深圳市坪山区中山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=京基御景印象四期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=倚湖居
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=八克拉
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=六和城
+('六和城','深圳市坪山新区六联小学;深圳市坪山区坪山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=凤凰公馆
+('凤凰公馆','深圳市坪山区汤坑小学;深圳市坪山区中山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=力高君御国际
+('力高君御国际','深圳市坪山区中山小学;深圳市坪山区中山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=启兴生活区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=坪山招商花园城北区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=坪山招商花园城南区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=坪山首座
+('坪山首座','深圳市坪山区汤坑小学;深圳市坪山区中山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=大东城一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=大东城二期
+('大东城二期','深圳市坪山实验学校（小学部）;深圳市坪山实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天峦湖
+('天峦湖','深圳市坪山区坪山中学;深圳市坪山区中山中学;深圳市坪山区马峦小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天峦湖二期
+('天峦湖二期','深圳市坪山区坪山中学;深圳市坪山区中山中学;深圳市坪山区马峦小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=奥园翡翠东湾
+('奥园翡翠东湾','深圳市坪山区同心外国语学校（小学部）;深圳市坪山区同心外国语学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=富润·乐庭
+('富润·乐庭','深圳市坪山区坪山第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=心海城
+('心海城','深圳市坪山新区坪山中心小学;深圳市坪山区坪山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=方直谷仓府
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=果园贝鼎盛大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=梓兴花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汤亨花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=泰富华庭
+('泰富华庭','深圳市坪山新区坪山中心小学;深圳市坪山区坪山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=泰富华悦都会
+('泰富华悦都会','深圳市坪山区中山小学;深圳市坪山区中山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=润樾山
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深业东城上邸
+('深业东城上邸','深圳市坪山区坪山中学;深圳市坪山区中山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深业东城国际
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深业御园
+('深业御园','深圳市坪山区同心外国语学校（小学部）;深圳市坪山区同心外国语学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深圳·泰禾广场
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深城投中城花园
+('深城投中城花园','深圳市坪山新区六联小学;深圳市坪山实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深城投中心公馆
+('深城投中心公馆','深圳市坪山实验学校（小学部）;深圳市坪山实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=澜湾花园
+('澜湾花园','深圳市坪山区同心外国语学校（小学部）;深圳市坪山区同心外国语学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=燕子岭生活区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=盈富家园
+('盈富家园','深圳市坪山区同心外国语学校（小学部）;深圳市坪山区坪山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=碧湖春天
+('碧湖春天','深圳市坪山区汤坑小学;深圳市坪山区中山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=祥祺滨河名苑
+('祥祺滨河名苑','深圳市坪山区坪山中学;深圳市坪山区中山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=竹韵花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=翠峰绿洲
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=豪方菁园
+('豪方菁园','深圳市坪山区同心外国语学校（小学部）;深圳市坪山区坪山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=财富城
+('财富城','深圳市坪山实验学校（小学部）;深圳市坪山实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金地朗悦
+('金地朗悦','深圳市坪山区中山小学;深圳市坪山区中山中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金田风华苑
+('金田风华苑','深圳市坪山区坑梓中心小学;深圳市坪山区光祖中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=顺发大厦
+('顺发大厦','深圳市南山区蛇口育才教育集团太子湾学校小学部（原海湾小学）;深圳市南山区蛇口育才集团太子湾学校（中学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙光玖云著
+('龙光玖云著','深圳市坪山区坪山中学;深圳市坪山区中山小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=KPR佳兆业广场
+('KPR佳兆业广场','深圳市大鹏华侨中学;深圳市大鹏中心小学;深圳市大鹏新区大鹏第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=PURE33璞岸
+('PURE33璞岸','深圳市大鹏华侨中学;深圳市大鹏新区大鹏第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万科十七英里
+('万科十七英里','深圳市大鹏新区葵涌中学;深圳市大鹏新区溪涌小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=三科麓湾
+('三科麓湾','深圳市大鹏新区葵涌中学;深圳市大鹏新区溪涌小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东丽观海山庄
+('东丽观海山庄','深圳市大鹏新区葵涌中学;深圳市大鹏新区葵涌第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=东部明珠雅苑
+('东部明珠雅苑','深圳市大鹏华侨中学;深圳市大鹏中心小学;深圳市大鹏新区大鹏第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=亚迪村
+('亚迪村','深圳市大鹏新区葵涌中学;深圳市大鹏新区葵涌第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=佳兆业金沙湾
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=保利24季
+('保利24季','深圳市大鹏华侨中学;深圳市大鹏中心小学;深圳市大鹏新区大鹏第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=凯旋湾花园一期
+('凯旋湾花园一期','深圳市大鹏新区南澳中学;深圳市大鹏新区南澳中心小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=凯旋湾花园三期
+('凯旋湾花园三期','深圳市大鹏新区南澳中学;深圳市大鹏新区南澳中心小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=凯旋湾花园二期
+('凯旋湾花园二期','深圳市大鹏新区南澳中学;深圳市大鹏新区南澳中心小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=千禧大厦
+('千禧大厦','深圳市大鹏华侨中学;深圳市大鹏中心小学;深圳市大鹏新区大鹏第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华侨海景山庄
+('华侨海景山庄','深圳市大鹏新区葵涌中学;深圳市大鹏新区葵涌第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华兴新村
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南澳水头沙花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=南澳湾花园
+('南澳湾花园','深圳市大鹏新区南澳中学;深圳市大鹏新区南澳中心小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=叠福村
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=名墅海景
+('名墅海景','深圳市大鹏华侨中学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=坝光新村一区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=坝光新村二区
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=大鹏镇王母村鹏程综合楼
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=山海名苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=岭澳东部湾公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=御海湾山庄
+('御海湾山庄','深圳市大鹏新区葵涌中学;深圳市大鹏新区葵涌第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=德华花园
+('德华花园','深圳市大鹏新区葵涌中学;深圳市大鹏新区葵涌第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=承翰半山海
+('承翰半山海','深圳市大鹏新区葵涌中学;深圳市大鹏新区葵涌第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=承翰陶柏莉
+('承翰陶柏莉','人大附中深圳学校（初中部）;人大附中深圳学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商东岸
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=曼湾广场
+('曼湾广场','深圳市大鹏中心小学;深圳市大鹏新区大鹏第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海域金湾
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海岸新城
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海语山林
+('海语山林','深圳市大鹏新区葵涌中学;深圳市大鹏新区葵涌第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=滨海盛世名苑
+('滨海盛世名苑','深圳市大鹏华侨中学;深圳市大鹏中心小学;深圳市大鹏新区大鹏第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=滨海雅苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花样年家天下
+('花样年家天下','深圳市大鹏新区葵涌中学;深圳市大鹏新区葵涌第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=葵涌镇土洋村住宅共四层半
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金众云山栖
+('金众云山栖','人大附中深圳学校（初中部）;人大附中深圳学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金海滩
+('金海滩','深圳市大鹏新区葵涌中学;深圳市大鹏新区溪涌小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金葵丰花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鑫园广场
+('鑫园广场','深圳市大鹏新区葵涌中学;深圳市大鹏新区葵涌第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=风球山花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鹏海苑小区
+('鹏海苑小区','深圳市大鹏华侨中学;深圳市大鹏中心小学;深圳市大鹏新区大鹏第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙岭花园
+('龙岭花园','深圳市大鹏华侨中学;深圳市大鹏中心小学;深圳市大鹏新区大鹏第二小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万科兰乔圣菲
+('万科兰乔圣菲','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=万骏经贸大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽晶国际
+('丽晶国际','深圳市宝安区海旺学校（小学部）;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=佳华名苑
+('佳华名苑','深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前海卓越时代广场
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华侨城华寓
+('华侨城华寓','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市宝安区海旺学校（初中部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=名门华府
+('名门华府','深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=国际西岸商务大厦
+('国际西岸商务大厦','深圳市宝安区海旺学校（小学部）;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天健时尚空间
+('天健时尚空间','深圳市宝安区海旺学校（小学部）;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天御
+('天御','深圳市宝安区海旺学校（小学部）;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天悦龙庭一期
+('天悦龙庭一期','深圳市宝安区滨海小学;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=天悦龙庭二期
+('天悦龙庭二期','深圳市宝安区滨海小学;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宏发中心大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宏发领域
+('宏发领域','深圳市宝安区海旺学校（小学部）;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=富通好旺角一期
+('富通好旺角一期','深圳市宝安区滨海小学;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=富通好旺角二期
+('富通好旺角二期','深圳市宝安区滨海小学;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=尚都一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=尚都二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=幸福海岸一期
+('幸福海岸一期','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=幸福海岸三期
+('幸福海岸三期','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=幸福海岸二期
+('幸福海岸二期','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=御景湾
+('御景湾','深圳市龙岗区天成学校（初中部）;深圳市龙岗区兰著学校（初中部）;深圳市龙岗区兰著学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新锦安壹号公馆
+('新锦安壹号公馆','深圳市宝安区海旺学校（小学部）;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=易尚中心
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=欢乐港湾•海府一号
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=泰华君逸世家
+('泰华君逸世家','深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=润恒御园
+('润恒御园','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深业新岸线一期
+('深业新岸线一期','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深业新岸线三期
+('深业新岸线三期','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深业新岸线二期
+('深业新岸线二期','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深航假日名居
+('深航假日名居','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=熙龙湾一期
+('熙龙湾一期','深圳市宝安区海旺学校（小学部）;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=熙龙湾二期
+('熙龙湾二期','深圳市宝安区实验学校初中部;深圳市宝安区实验学校（小学部）;深圳市宝安区实验学校(初中部);'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=第五大道高发西岸花园一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=第五大道高发西岸花园三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花样年花乡
+('花样年花乡','深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=花样年花郡
+('花样年花郡','深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=荣超滨海大厦
+('荣超滨海大厦','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市宝安区海旺学校（初中部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=菁英趣庭
+('菁英趣庭','深圳市宝安区滨海小学;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西城上筑花园
+('西城上筑花园','深圳市宝安区海旺学校（小学部）;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西城雅筑
+('西城雅筑','深圳市宝安小学;深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西岸观邸
+('西岸观邸','深圳市宝安区实验学校初中部;深圳市宝安区实验学校（小学部）;深圳市宝安区实验学校(初中部);'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=达海花园
+('达海花园','深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=都市茗荟花园
+('都市茗荟花园','深圳市宝安区海旺学校（小学部）;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金成时代家园
+('金成时代家园','深圳市宝安区海韵学校（小学部）;深圳市新安中学（集团）第一实验学校（小学部）;深圳市新安中学（集团）第一实验学校（初中部）;深圳市宝安区海韵学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金泓凯旋城一期
+('金泓凯旋城一期','深圳市宝安区实验学校初中部;深圳市宝安区实验学校（小学部）;深圳市宝安区实验学校(初中部);'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=金泓凯旋城二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=风临洲
+('风临洲','深圳市宝安区滨海小学;深圳市宝安区海旺学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸿荣源·壹方中心·玖誉
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=龙光世纪大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=TATA公寓
+('TATA公寓','深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝城小学;深圳市宝安区宝民小学;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安中学（集团）实验学校（小学部）;深圳市宝安区孝德学校（初中部）;深圳市宝安区宝安中学（集团）初中部;深圳市宝安区灵芝小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中洲华府
+('中洲华府','深圳市宝安区孝德学校（小学部）;深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝民小学;深圳市宝安区上合小学;深圳市宝安中学（集团）实验学校（小学部）;深圳市宝安区孝德学校（初中部）;深圳市宝安区宝安中学（集团）初中部;深圳市宝安区灵芝小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中粮创芯公园
+('中粮创芯公园','深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝民小学;深圳市宝安中学（集团）实验学校（小学部）;深圳市宝安区宝安中学（集团）初中部;深圳市宝安区灵芝小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中粮天悦壹号
+('中粮天悦壹号','深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝城小学;深圳市宝安区宝民小学;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安中学（集团）实验学校（小学部）;深圳市宝安区孝德学校（初中部）;深圳市宝安区宝安中学（集团）初中部;深圳市宝安区灵芝小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=佳华书苑雅阁
+('佳华书苑雅阁','深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝城小学;深圳市宝安区宝民小学;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安中学（集团）实验学校（小学部）;深圳市宝安区宝安中学（集团）初中部;深圳市宝安区灵芝小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=冠城世家
+('冠城世家','深圳市宝安区宝城小学;深圳市宝安区新安中学（集团）（初中部）;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安区新安湖小学;深圳市宝安区孝德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=创业二村
+('创业二村','深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝民小学;深圳市宝安中学（集团）实验学校（小学部）;深圳市宝安区宝安中学（集团）初中部;深圳市宝安区灵芝小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=勤诚达22世纪一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=勤诚达22世纪二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华盛盛荟
+('华盛盛荟','深圳市宝安区弘雅小学;深圳市宝安区文汇学校（小学部）;深圳市宝安区文汇学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=华联城市全景壹号
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=品尚居
+('品尚居','深圳市宝安区弘雅小学;深圳市宝安区文汇学校（小学部）;深圳市宝安区文汇学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宝民花园
+('宝民花园','深圳市宝安区建安小学;深圳市宝安区文汇学校（小学部）;深圳市宝安区新安中学（集团）（初中部）;深圳市宝安区孝德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=岭下花园
+('岭下花园','深圳市宝安区孝德学校（小学部）;深圳市宝安区上合小学;深圳市宝安区文汇学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=弘雅花园二期
+('弘雅花园二期','深圳市宝安区建安小学;深圳市宝安区文汇学校（小学部）;深圳市宝安区新安中学（集团）（初中部）;深圳市宝安区孝德学校（初中部）;深圳市宝安区文汇学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=弘雅花园雅兰亭四期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=弘雅花园雅豪轩三期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=御景台
+('御景台','深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝城小学;深圳市宝安区新安中学（集团）（初中部）;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安区宝安中学（集团）初中部;深圳市南山区南山实验教育集团园丁学校小学部;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=恒安花园
+('恒安花园','深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝城小学;深圳市宝安区宝民小学;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安中学（集团）实验学校（小学部）;深圳市宝安区宝安中学（集团）初中部;深圳市宝安区灵芝小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新安湖花园
+('新安湖花园','深圳市宝安区宝城小学;深圳市宝安区新安中学（集团）（初中部）;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安区新安湖小学;深圳市宝安区孝德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=海雅缤纷城
+('海雅缤纷城','深圳市宝安区宝城小学;深圳市宝安区新安中学（集团）（初中部）;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安区新安湖小学;深圳市宝安区孝德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=灵芝新村
+('灵芝新村','深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝城小学;深圳市宝安区宝民小学;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安中学（集团）实验学校（小学部）;深圳市宝安区孝德学校（初中部）;深圳市宝安区宝安中学（集团）初中部;深圳市宝安区灵芝小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=白金时代
+('白金时代','深圳市宝安区建安小学;深圳市宝安区文汇学校（小学部）;深圳市宝安区新安中学（集团）（初中部）;深圳市宝安区孝德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=白金酒店公寓
+('白金酒店公寓','深圳市宝安区宝城小学;深圳市宝安区新安中学（集团）（初中部）;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安区新安湖小学;深圳市宝安区孝德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=西城品阁
+('西城品阁','深圳市宝安区弘雅小学;深圳市宝安区文汇学校（小学部）;深圳市宝安区文汇学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=都市翠海华苑
+('都市翠海华苑','深圳市宝安中学(集团)外国语学校(初中部);深圳市宝安区宝城小学;深圳市宝安区宝民小学;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安中学（集团）实验学校（小学部）;深圳市宝安区孝德学校（初中部）;深圳市宝安区宝安中学（集团）初中部;深圳市宝安区灵芝小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=风尚时代
+('风尚时代','深圳市宝安区弘雅小学;深圳市宝安区文汇学校（小学部）;深圳市宝安区文汇学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=香缤广场
+('香缤广场','深圳市宝安区宝城小学;深圳市宝安区新安中学（集团）（初中部）;深圳市宝安中学（集团）外国语学校（小学部）;深圳市宝安区新安湖小学;深圳市宝安区孝德学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鸿景园
+('鸿景园','深圳市宝安区弘雅小学;深圳市宝安区文汇学校（小学部）;深圳市宝安区文汇学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=黄金大厦
+('黄金大厦','深圳市宝安区弘雅小学;深圳市宝安区文汇学校（小学部）;深圳市宝安区文汇学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中海九号公馆一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中海九号公馆三期
+('中海九号公馆三期','深圳市宝安区凤岗小学;新安中学（集团）外国语学校（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中海九号公馆二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=恒丰工业城
+('恒丰工业城','深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商华侨城曦城一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商华侨城曦城三期
+('招商华侨城曦城三期','深圳市宝安区上合小学;深圳市宝安区凤岗小学;新安中学（集团）外国语学校（初中部）;深圳市宝安区文汇学校（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商华侨城曦城二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商华侨城曦城五期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商华侨城曦城六期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商华侨城曦城商业中心
+('招商华侨城曦城商业中心','深圳市宝安区凤岗小学;新安中学（集团）外国语学校（初中部）;深圳市宝安区文汇学校（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商华侨城曦城四期
+('招商华侨城曦城四期','深圳市宝安区上合小学;深圳市宝安区凤岗小学;新安中学（集团）外国语学校（初中部）;深圳市宝安区文汇学校（初中部）;深圳市宝安区新安中学（集团）外国语学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商华侨城曦城山顶道
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=招商华侨城曦城山顶道酒店公寓
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=新世界名镌
+('新世界名镌','深圳市宝安区凤岗小学;新安中学（集团）外国语学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=润科华府
+('润科华府','深圳市宝安区红树林外国语小学（初中部）;深圳市宝安区海湾中学;深圳市宝安区航城学校 （初中部）;深圳市宝安区黄麻布学校（初中部）;深圳市宝安区钟屋小学（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=深业沙河U中心
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=越秀·和樾府
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=鹤洲豪庭
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中海西岸华府北区
+('中海西岸华府北区','深圳市宝安区艺展小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市宝安区松岗实验学校（小学部）;深圳市宝安区沙溪小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=中海西岸华府南区
+('中海西岸华府南区','深圳市宝安区艺展小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市宝安区松岗实验学校（小学部）;深圳市宝安区沙溪小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=丽园小筑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=众和花园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前进公社一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=前进公社二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宏发君域
+('宏发君域','深圳市宝安区艺展小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市宝安区松岗实验学校（小学部）;深圳市宝安区沙溪小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宝利豪庭
+('宝利豪庭','深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗第二小学;深圳市宝安区松岗实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=宝安山庄
+('宝安山庄','深圳市宝安区艺展小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市宝安区松岗实验学校（小学部）;深圳市宝安区沙溪小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=居乐苑
+('居乐苑','深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗第二小学;深圳市宝安区松岗实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=山美新村大厦
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=御景城
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=星际家园
+('星际家园','深圳市宝安区松岗第一小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市宝安区松岗第三小学;深圳市光明区玉律学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=景湖家园
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=松兴大厦
+('松兴大厦','深圳市宝安区东方小学;深圳市宝安区潭头小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市光明区玉律学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=松河瑞园一期
+('松河瑞园一期','深圳市宝安区艺展小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市宝安区松岗实验学校（小学部）;深圳市宝安区沙溪小学;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=松河瑞园二期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=松涛花园
+('松涛花园','深圳市宝安区东方小学;深圳市宝安区潭头小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市光明区玉律学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=松涛花园二期
+('松涛花园二期','深圳市宝安区东方小学;深圳市宝安区潭头小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市光明区玉律学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=松盛大厦
+('松盛大厦','深圳市宝安区东方小学;深圳市宝安区潭头小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;深圳市光明区玉律学校（小学部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=桂景园
+('桂景园','深圳市宝安区黄埔小学;深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=汇智百盛
+('汇智百盛','深圳市宝安区松岗中学（初中部）;深圳市宝安区松岗第二小学;深圳市宝安区松岗实验学校（初中部）;'),
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=泰和豪苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=温馨雅苑
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=满京华云著一期
+'NoneType' object has no attribute 'find_all'
+http://edu.chachaba.com/index.php/Home/Index/build/?b_name=满京华云著三期
