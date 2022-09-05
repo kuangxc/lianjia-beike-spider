@@ -39,7 +39,7 @@ class BaseSpider(object):
         else:
             self.cities = None
         # 准备日期信息，爬到的数据存放到日期相关文件夹下
-        self.date_string = get_date_string()
+        self.date_string = get_date_string(0)
         print('Today date is: %s' % self.date_string)
 
         self.total_num = 0  # 总的小区个数，用于统计

@@ -7,10 +7,12 @@
 import codecs
 import re
 import traceback
+from os import replace
 
 import lib.utility.version
 import threadpool
 from bs4 import BeautifulSoup
+from lib.item.ershou import *
 from lib.item.xiaoqu import *
 from lib.spider.base_spider import *
 from lib.utility.date import *
@@ -45,10 +47,11 @@ class XiaoQuBaseSpider(BaseSpider):
                 # 释放
                 self.mutex.release()
             if fmt == "csv":
-                # 20220410,罗湖区,百仕达,旭飞华达园,2000,50400,普通住宅,1,2,3,南头小学,xxxx
-                f.write("日期,区,片区,小区,建造年份,单价,房屋用途,二房,三房,四房,小学,链接\n")
+                # 20220410,罗湖区,百仕达,旭飞华达园,2000,普通住宅,90,540,高楼层,三房,xxxx
+                f.write("日期,区,片区,小区,建造年份,指导价,房屋用途,面积,价格,楼层,户型,链接\n")
                 for xiaoqu in xqs:
-                    f.write(self.date_string + "," + xiaoqu.text() + "\n")
+                    for ershou in xiaoqu.ershous:
+                        f.write(self.date_string + "," + xiaoqu.text()+"," + ershou.text() + "\n")
         print("Finish crawl area: " + area_name + ", save data to : " + csv_file)
         logger.info("Finish crawl area: " + area_name + ", save data to : " + csv_file)
 
@@ -90,25 +93,26 @@ class XiaoQuBaseSpider(BaseSpider):
             # 获得有小区信息的panel
             house_elems = soup.find_all('li', class_="xiaoquListItem")
             for house_elem in house_elems:
-                price = house_elem.find('div', class_="totalPrice")
+                guiding_price = house_elem.find('div', class_="totalPrice")
                 name = house_elem.find('div', class_='title')
                 on_sale = house_elem.find('div', class_="xiaoquListItemSellCount")
                 year_built = house_elem.find('div', class_="positionInfo")
                 # 继续清理数据
                 xiaoqu_url = name.find('a',href=True)['href']
-                #print("xiaoqu url:"+xiaoqu_url)
+                print("xiaoqu url:"+xiaoqu_url)
                 name = name.text.replace("\n", "")   
-                price = price.text.replace("m2", "").strip()
-                price =  "".join(filter(str.isdigit, price)) # 提取数字
                 on_sale = on_sale.text.replace("\n", "").strip()
-                on_sale =  "".join(filter(str.isdigit, on_sale)) # 提取数字          
+                on_sale =  "".join(filter(str.isdigit, on_sale)) # 提取数字    
+                guiding_price = guiding_price.text.replace("m2", "").strip()
+                guiding_price =  "".join(filter(str.isdigit, guiding_price)) # 提取数字      
                 year_built = year_built.text.replace("\n", "").strip()
                 year_built =  "".join(filter(str.isdigit, year_built))
-                primary_schools = get_primary_schools(xiaoqu_url)
-                used,erfang,sanfang,sifang = get_ershou_info(xiaoqu_url)
+                used = ""
+                ershous = list()
+                if year_built>'2000' and on_sale>'0':
+                    used,ershous = get_ershou_info(xiaoqu_url)
                 # 作为对象保存
-                xiaoqu = XiaoQu(chinese_district, chinese_area, name,year_built, price,used, erfang,sanfang,sifang,
-                primary_schools,xiaoqu_url)
+                xiaoqu = XiaoQu(chinese_district, chinese_area, name,year_built,guiding_price,used,ershous)
                 xiaoqu_list.append(xiaoqu)
         return xiaoqu_list
 
@@ -125,6 +129,8 @@ class XiaoQuBaseSpider(BaseSpider):
         # 获得每个区的板块, area: 板块
         areas = list()
         for district in districts:
+            if district != "nanshanqu" and district != "baoanqu":
+                continue
             areas_of_district = get_areas(city, district)
             print('{0}: Area list:  {1}'.format(district, areas_of_district))
             # 用list的extend方法,L1.extend(L2)，该方法将参数L2的全部元素添加到L1的尾部
@@ -155,67 +161,10 @@ class XiaoQuBaseSpider(BaseSpider):
         print("Total cost {0} second to crawl {1} data items.".format(t2 - t1, self.total_num))
 
 
-def get_primary_schools(xiaoqu_url):
-    schools = ""
-    web_retry =0
-    while web_retry<5:
-        try:
-            headers = create_headers()
-            #options = webdriver.ChromeOptions()
-            options = Options()
-            # 操作无页面显示，如果需要debug，需要注释下面这一行
-            options.add_argument('--headless') #浏览器不提供可视化页面 
-            options.add_argument('-–no-sandbox') #“–no - sandbox”参数是让Chrome在root权限下跑
-            options.add_argument('no-sandbox') #“–no - sandbox”参数是让Chrome在root权限下跑
-            options.add_argument('blink-settings=imagesEnabled=false') #不加载图片, 提升速度
-            for (k,v) in headers.items():
-                options.add_argument(k+"="+v)
-            driver = webdriver.Chrome(chrome_options=options,executable_path='/home/mqq/chromedriver')
-            driver.get(xiaoqu_url)
-            # content after click may is loading,retry if needed
-            driver.find_element_by_xpath("//li[@data-bl='education']").click()
-            time.sleep(1)
-            retry = 0
-            while retry <3:
-                if len(driver.find_element_by_xpath("//div[@data-bl='primary-school']").text) !=0 :
-                    #print("data-bl='primary-school "+ driver.find_element_by_xpath("//div[@data-bl='primary-school']").text)
-                    break
-                retry += 1
-                time.sleep(retry)
-            driver.find_element_by_xpath("//div[@data-bl='primary-school']").click()
-            time.sleep(1)
-            retry = 0
-            while retry <3:
-                if len(driver.find_element_by_xpath("//div[@class='aroundList']").text) !=0 :
-                    break
-                retry += 1
-                time.sleep(retry)
-            arround_element = driver.find_element_by_xpath("//div[@class='aroundList']")
-            school_elements  = arround_element.find_elements(by=By.XPATH,value="//span[@class='itemText itemTitle']")  
-            for s in school_elements:
-                #print("school element:"+s.text)
-                schools = schools +s.text+";"
-            # 偶发性获取到的数据是幼儿园tab页，因网页数据加载有延迟
-            # 暂时未找到好的办法，先通过这种丑陋的方式兼容，增加重试，解决>99%的数据错乱问题
-            if schools.find("幼儿园") >=0:
-                schools =""
-                continue
-        except Exception as e:
-            traceback.print_exc()
-            print(xiaoqu_url+" :"+str(e))
-        schools = schools[0:len(schools)-1]
-        driver.close()
-        if len(schools)>0:
-            break
-        web_retry += 1
-        time.sleep(web_retry)
-    print("xiaoqu url:"+xiaoqu_url+",schools:"+schools)  # 打印版块页面地址
-    return schools
-
 def get_ershou_info(xiaoqu_url):
     used = ""
-    erfang,sanfang,sifang = 0,0,0
-    for retry in range(5): 
+    ershous = []
+    for retry in range(3): 
         try: 
             response = requests.get(xiaoqu_url, timeout=10, headers=create_headers())
             html = response.content
@@ -224,35 +173,62 @@ def get_ershou_info(xiaoqu_url):
             # 如果取不到二手房详情URL，说明当前小区没有二手房出售
             if ershou_element is None:
                 print(xiaoqu_url + " : 暂无房源")
-                return used,erfang,sanfang,sifang
+                return used,ershous
             ershou_url = ershou_element.find('a',href=True)['href']
-            response = requests.get(ershou_url, timeout=10, headers=create_headers())
-            time.sleep(1)
-            html = response.content
-            soup = BeautifulSoup(html, "lxml")
-            sell_element = soup.find('ul',class_='sellListContent')
-            if sell_element is None:
-                print(ershou_url+" :"+" selling list is None")
-                continue
-            house_elements = sell_element.find_all('div',class_='houseInfo')
-            for house_element in house_elements:
-                if house_element.text.find("2室") >=0:
-                    erfang = erfang +1
-                elif house_element.text.find("3室") >=0:
-                    sanfang = sanfang +1
-                elif house_element.text.find("4室") >=0:
-                    sifang = sifang +1
-            
-            house_url = sell_element.find('a',class_='img VIEWDATA CLICKDATA maidian-detail',href=True)['href']
-            #print(house_url)
-            used = get_house_used(house_url)
-            print(ershou_url," 用途:",used," 二房:",erfang,",三房:",sanfang,",四房:",sifang)
+            start_price,end_price = 600,900
+            step = 10
+            allErsohus = get_ershou_with_price(ershou_url,start_price,end_price)
+            if len(allErsohus) == 0:
+                return used,ershous
+            while start_price<end_price:
+                stepErshous =  get_ershou_with_price(ershou_url,start_price,start_price+step)
+                ershous = ershous + stepErshous
+                start_price = start_price + step
+            for ershou in ershous:
+                print(ershou.text())
+            used = get_house_used(ershous[0].url)
             break
         except Exception as e:
             traceback.print_exc()
             print(xiaoqu_url+' :'+str(e))
             time.sleep(retry)
-    return used,erfang,sanfang,sifang
+    return used,ershous
+
+def get_ershou_with_price(ershou_url,price_floor,price_ceiling):
+    ershous = list()
+    for retry in range(3): 
+        try: 
+            price_url = ("/ershoufang/l3l4bp%dep%dc") % ( price_floor , price_ceiling)
+            #print(price_url)
+            ershou_url = ershou_url.replace("/ershoufang/c",price_url)
+            #print("ershou url:"+ershou_url)
+            response = requests.get(ershou_url, timeout=10, headers=create_headers())
+            time.sleep(1)
+            html = response.content
+            soup = BeautifulSoup(html, "lxml")
+            noresult = soup.find_all("div",class_="m-noresult space-lite")
+            if len(noresult) >0:
+                return ershous
+            sell_element = soup.find('ul',class_='sellListContent')
+            if sell_element is None:
+                print(ershou_url+" :"+" selling list is None")
+                return ershous
+            house_elements = sell_element.find_all('li',class_='clear')
+            for house_element in house_elements:
+                house_url = house_element.find('a',class_='img VIEWDATA CLICKDATA maidian-detail',href=True)['href']
+                house_info = house_element.find('div',class_='houseInfo')
+                #  低楼层 (共34层)| 2000年建 | 3室2厅 | 101平米 | 南
+                strs = str(house_info.text).split("|")
+                floor = strs[0].strip().replace(" ","").replace("\n","").replace("\r","")
+                rooms = strs[2].strip().replace(" ","").replace("\n","").replace("\r","")
+                size = float(strs[3].replace("平米","").strip())
+                ershous.append(ErShou(size,floor,(price_floor+price_ceiling)/2,rooms,house_url))
+            break
+        except Exception as e:
+            traceback.print_exc()
+            print(ershou_url+' :'+str(e))
+            time.sleep(retry)
+    return ershous
 
 def get_house_used(house_url):
     for i in range(3):

@@ -4,6 +4,7 @@
 # 此代码仅供学习与交流，请勿用于商业用途。
 # 日期和时间的字符串辅助函数
 
+import datetime
 import time
 
 
@@ -16,14 +17,16 @@ def get_time_string():
     return time.strftime("%Y%m%d%H%M%S", current)
 
 
-def get_date_string():
+def get_date_string(delta):
     """
     获得形如20161010这样的年月日字符串
     :return:
     """
-    current = time.localtime()
-    return time.strftime("%Y%m%d", current)
 
+    today = datetime.date.today()
+    # 昨天时间
+    date = today + datetime.timedelta(days=delta)
+    return date.strftime("%Y%m%d")
 
 def get_year_month_string():
     """
@@ -35,4 +38,4 @@ def get_year_month_string():
 
 
 if __name__ == "__main__":
-    print(get_date_string())
+    print(get_date_string(0))

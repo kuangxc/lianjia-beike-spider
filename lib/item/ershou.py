@@ -6,18 +6,16 @@
 
 
 class ErShou(object):
-    def __init__(self, district, area, name, price, desc, pic):
-        self.district = district
-        self.area = area
+    def __init__(self, size, floor, price,rooms, url):
+        self.size = size
         self.price = price
-        self.name = name
-        self.desc = desc
-        self.pic = pic
+        self.floor = floor
+        self.rooms = rooms
+        self.url = url
 
     def text(self):
-        return self.district + "," + \
-                self.area + "," + \
-                self.name + "," + \
-                self.price + "," + \
-                self.desc + "," + \
-                self.pic
+        return str(self.size) + "," + \
+                str(self.price) + "," + \
+                self.floor + "," + \
+                str(self.rooms) + "," + \
+                self.url

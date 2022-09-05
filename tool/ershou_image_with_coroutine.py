@@ -20,7 +20,7 @@ from lib.utility.path import DATA_PATH
 
 def get_ershou_img_urls(city):
     urls = list()
-    date = get_date_string()
+    date = get_date_string(0)
     # 获得 csv 文件路径
     # date = "20180331"   # 指定采集数据的日期
     # city = "sh"         # 指定采集数据的城市
@@ -85,7 +85,7 @@ if __name__ == '__main__':
     city = "yt"
     urls = get_ershou_img_urls(city)
     loop = asyncio.get_event_loop()
-    date = get_date_string()
+    date = get_date_string(0)
     csv_dir = "{0}/{1}/ershou/{2}/{3}".format(DATA_PATH, SPIDER_NAME, city, date)
     to_do = [download_images("{0}/{1}.jpg".format(csv_dir, i), urls[i]) for i in range(len(urls))]
     print("Start to download, please wait.")
