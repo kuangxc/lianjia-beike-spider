@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
     if database == "mysql":
         import records  
-        db = records.Database('mysql://root:2e98962fa0d4d199@119.45.125.72:3305/db_estate?charset=utf8', encoding='utf-8')
+        db = records.Database('mysql://root:xxxx@119.45.125.72:3305/db_estate?charset=utf8', encoding='utf-8')
     elif database == "mongodb":
         from pymongo import MongoClient
         conn = MongoClient('localhost', 27017)
@@ -105,7 +105,7 @@ if __name__ == '__main__':
                         continue
                     # 如果小区名里面没有逗号，那么总共是11项
                     if text.count(',') == 11:
-                        date, district, area, xiaoqu, year_built,guiding_price,used, size,price,floor,rooms, url = text.split(',')
+                        date, district, area, xiaoqu,guiding_price,used, size,price,floor,rooms, year_built, url = text.split(',')
                     elif text.count(',') < 11:
                         print(text.count(','))
                         continue
@@ -117,15 +117,15 @@ if __name__ == '__main__':
                     price = -1
                 price = float(price)
                 print("{0} {1} {2} {3} {4} {5} {6} {7} {8} {9} {10} {11}" .format(date, district, area, 
-                 xiaoqu, year_built,guiding_price,used, size,price,floor,rooms, url ))
+                 xiaoqu,guiding_price,used, size,price,floor,rooms, year_built, url ))
                 # 写入mysql数据库
                 if database == "mysql":
                     try: 
                         # print("replace data into mysql")
-                        db.query('REPLACE INTO t_xiaoqu (date, district, area, xiaoqu, year_built,guiding_price,used,size,price,floor,rooms , url) '
-                                'VALUES(:date, :district, :area, :xiaoqu, :year_built, :guiding_price, :used, :size, :price, :floor, :rooms, :url)',
-                                date=date, district=district, area=area, xiaoqu=xiaoqu, year_built=year_built,
-                                guiding_price=guiding_price,used=used,size=size,price=price,floor=floor,rooms=rooms,url=url)
+                        db.query('REPLACE INTO t_xiaoqu (date, district, area, xiaoqu,guiding_price,used,size,price,floor,rooms , year_built , url) '
+                                'VALUES(:date, :district, :area, :xiaoqu, :guiding_price, :used, :size, :price, :floor, :rooms, :year_built , :url)',
+                                date=date, district=district, area=area, xiaoqu=xiaoqu, guiding_price=guiding_price,
+                                used=used,size=size,price=price,floor=floor,rooms=rooms, year_built=year_built,url=url)
                     except Exception as e:
                         print(e)
                         continue

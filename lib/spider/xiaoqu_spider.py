@@ -48,7 +48,7 @@ class XiaoQuBaseSpider(BaseSpider):
                 self.mutex.release()
             if fmt == "csv":
                 # 20220410,罗湖区,百仕达,旭飞华达园,2000,普通住宅,90,540,高楼层,三房,xxxx
-                f.write("日期,区,片区,小区,建造年份,指导价,房屋用途,面积,价格,楼层,户型,链接\n")
+                f.write("日期,区,片区,小区,指导价,房屋用途,面积,价格,楼层,户型,建造年份,链接\n")
                 for xiaoqu in xqs:
                     for ershou in xiaoqu.ershous:
                         f.write(self.date_string + "," + xiaoqu.text()+"," + ershou.text() + "\n")
@@ -96,6 +96,7 @@ class XiaoQuBaseSpider(BaseSpider):
                 guiding_price = house_elem.find('div', class_="totalPrice")
                 name = house_elem.find('div', class_='title')
                 on_sale = house_elem.find('div', class_="xiaoquListItemSellCount")
+                # 这里的年份只做初步判断，实际小区年份以各套房源内部为准。据分析，基本小区整体年份会比实际年份老2年左右
                 year_built = house_elem.find('div', class_="positionInfo")
                 # 继续清理数据
                 xiaoqu_url = name.find('a',href=True)['href']
@@ -112,7 +113,7 @@ class XiaoQuBaseSpider(BaseSpider):
                 if year_built>'2000' and on_sale>'0':
                     used,ershous = get_ershou_info(xiaoqu_url)
                 # 作为对象保存
-                xiaoqu = XiaoQu(chinese_district, chinese_area, name,year_built,guiding_price,used,ershous)
+                xiaoqu = XiaoQu(chinese_district, chinese_area, name,guiding_price,used,ershous)
                 xiaoqu_list.append(xiaoqu)
         return xiaoqu_list
 
@@ -130,7 +131,7 @@ class XiaoQuBaseSpider(BaseSpider):
         areas = list()
         for district in districts:
             if district != "nanshanqu" and district != "baoanqu":
-                continue
+               continue
             areas_of_district = get_areas(city, district)
             print('{0}: Area list:  {1}'.format(district, areas_of_district))
             # 用list的extend方法,L1.extend(L2)，该方法将参数L2的全部元素添加到L1的尾部
@@ -217,12 +218,29 @@ def get_ershou_with_price(ershou_url,price_floor,price_ceiling):
             for house_element in house_elements:
                 house_url = house_element.find('a',class_='img VIEWDATA CLICKDATA maidian-detail',href=True)['href']
                 house_info = house_element.find('div',class_='houseInfo')
-                #  低楼层 (共34层)| 2000年建 | 3室2厅 | 101平米 | 南
-                strs = str(house_info.text).split("|")
-                floor = strs[0].strip().replace(" ","").replace("\n","").replace("\r","")
-                rooms = strs[2].strip().replace(" ","").replace("\n","").replace("\r","")
-                size = float(strs[3].replace("平米","").strip())
-                ershous.append(ErShou(size,floor,(price_floor+price_ceiling)/2,rooms,house_url))
+                house_info_text = str(house_info.text).replace(" ","").replace("\n","").replace("\r","")
+                print("house url:"+house_url+" house info:",house_info_text)
+                strs = house_info_text.split("|")
+                floor = 0
+                year_built = 0
+                rooms = 0
+                size = 0
+                if len(strs) == 4:
+                    # 高楼层(共56层) | 3室2厅 | 87.36平米 | 东北
+                    floor = strs[0]
+                    year_built =  "2015年建"
+                    rooms = strs[1]
+                    size = float(strs[2].replace("平米",""))
+                elif len(strs) == 5:
+                #  低楼层 (共34层)| 2000年建 | 3室2厅 | 101平米 | 南   
+                    floor = strs[0]
+                    year_built =  strs[1].replace("年建","")
+                    #print("house url:"+house_url+" year built:",year_built)
+                    rooms = strs[2]
+                    size = float(strs[3].replace("平米",""))     
+                else:
+                    continue
+                ershous.append(ErShou(size,floor,(price_floor+price_ceiling)/2,rooms,year_built,house_url))
             break
         except Exception as e:
             traceback.print_exc()

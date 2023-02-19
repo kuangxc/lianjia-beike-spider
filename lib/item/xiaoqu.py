@@ -6,11 +6,10 @@
 
 
 class XiaoQu(object):
-    def __init__(self, district, area, name,year_built,guiding_price, used, ershous):
+    def __init__(self, district, area, name,guiding_price, used, ershous):
         self.district = district
         self.area = area
         self.name = name
-        self.year_built = year_built
         self.guiding_price = guiding_price
         self.used = used
         self.ershous = ershous
@@ -18,6 +17,5 @@ class XiaoQu(object):
         return self.district + "," + \
                 self.area + "," + \
                 self.name + "," + \
-                self.year_built + "," + \
                 self.guiding_price + "," + \
                 str(self.used)
