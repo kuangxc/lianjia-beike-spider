@@ -107,7 +107,7 @@ if __name__ == '__main__':
                     if text.count(',') == 11:
                         date, district, area, xiaoqu,guiding_price,used, size,price,floor,rooms, year_built, url = text.split(',')
                     elif text.count(',') < 11:
-                        print(text.count(','))
+                        print("invalid data:\"",text,"\",expect comlumn > ",text.count(','))
                         continue
                 except Exception as e:
                     print(text)

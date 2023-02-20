@@ -47,7 +47,7 @@ class XiaoQuBaseSpider(BaseSpider):
                 # 释放
                 self.mutex.release()
             if fmt == "csv":
-                # 20220410,罗湖区,百仕达,旭飞华达园,2000,普通住宅,90,540,高楼层,三房,xxxx
+                # 20220410,罗湖区,百仕达,旭飞华达园,2000,普通住宅,90,540,高楼层,3室2厅,xxxx
                 f.write("日期,区,片区,小区,指导价,房屋用途,面积,价格,楼层,户型,建造年份,链接\n")
                 for xiaoqu in xqs:
                     for ershou in xiaoqu.ershous:

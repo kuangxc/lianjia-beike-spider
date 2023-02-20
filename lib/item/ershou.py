@@ -18,5 +18,6 @@ class ErShou(object):
         return str(self.size) + "," + \
                 str(self.price) + "," + \
                 str(self.floor) + "," + \
+                str(self.rooms) + "," + \
                 str(self.year_built) + "," + \
                 self.url
